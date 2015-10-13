@@ -1,0 +1,136 @@
+/*
+ * This file is part of the Access to Memory (AtoM) software.
+ *
+ * Access to Memory (AtoM) is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * Access to Memory (AtoM) is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with Access to Memory (AtoM).  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+// Alternative to .btn for action buttons
+
+// from Kungbib style guide
+
+.button-colors(@color) {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 5px;
+	background-color: @color;
+	box-shadow: 0px 2px 0px 0px darken(@color, 20%);
+	& when (luma(@color) >= 60%) {
+	  color: darken(@color, 35%);
+	  &:hover, &:focus {
+	  	background-color: darken(@color, 10%);
+	  	color: darken(@color, 35%);
+	  }
+		&:active {
+			background-color: @color;
+			color: darken(@color, 35%);
+		}
+	}
+	& when (luma(@color) < 60%) {
+	  color: lighten(@color, 50%);
+	  &:hover, &:focus {
+	  	background-color: darken(@color, 10%);
+	  	color: lighten(@color, 50%);
+	  }
+		&:active {
+			background-color: @color;
+	  	color: lighten(@color, 50%);
+		}
+	}
+}
+
+.c-btn {
+  .button-colors(@white);
+  color: #000;
+}
+
+
+.c-btn {
+	font-weight: 400;
+	box-shadow: 0px 2px 0px 0px darken(#fff, 20%);
+	transition: 0.5s ease;
+	transition-property: color, background-color, border-color, position;
+  font-size: @baseFontSize;
+  line-height: @baseLineHeight;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+.c-btn-submit {
+  .button-colors(@btnPrimaryBackground);
+}
+
+.c-btn.c-btn-submit {
+  .button-colors(@btnPrimaryBackground);
+  border: none;
+}
+
+.c-btn-delete {
+  .button-colors(@btnDangerBackground);
+  border: none;
+}
+
+.c-btn-right-align {
+  float: right;
+}
+
+// Integrate caret
+
+.c-btn .caret {
+  border-top-color: @white;
+  border-bottom-color: @white;
+  margin-top: 7px;
+  margin-left: 4px;
+}
+
+.c-btn:hover .caret,
+.open .c-btn .caret {
+  border-top-color: @grayDarker;
+  border-bottom-color: @grayDarker;
+}
+
+.open .c-btn {
+  background-color: @white;
+  color: @black;
+}
+
+/*
+ * .x-btn
+ */
+
+.x-btn {
+  cursor: pointer;
+  padding: 8px;
+  background: none;
+  border: 2px solid @gray;
+  .border-radius(4px);
+  color: @gray;
+  display: block;
+  i {
+    margin-right: 4px;
+  }
+}
+
+.btn-wide {
+  width: 95%;
+  margin: 0 auto;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.btn-wide:hover,
+.btn-wide.open {
+  background-color: @white;
+  color: @black;
+}
