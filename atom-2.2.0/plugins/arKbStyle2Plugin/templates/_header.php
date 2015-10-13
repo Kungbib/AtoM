@@ -9,7 +9,7 @@
 <header id="top-bar">
 
   <?php if (sfConfig::get('app_toggleLogo')): ?>
-    <?php echo link_to(image_tag('/plugins/arKbStylePlugin/images/kb_logo_white.svg'), '@homepage', array('class' => 'navbar-brand navbar-logo', 'id' => 'logo', 'rel' => 'home')) ?>
+    <?php echo link_to(image_tag('/plugins/arKbStyle2Plugin/images/kb_logo_white.svg'), '@homepage', array('class' => 'navbar-brand navbar-logo', 'id' => 'logo', 'rel' => 'home')) ?>
   <?php endif; ?>
 
   <?php if (sfConfig::get('app_toggleTitle')): ?>
