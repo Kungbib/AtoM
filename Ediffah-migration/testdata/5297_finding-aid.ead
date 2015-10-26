@@ -1,0 +1,1047 @@
+<html><body><ead audience="external" relatedencoding="MARC21">
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="J" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid countrycode="SE" identifier="ediffah:kb:800766:1174551412" mainagencycode="kb">L0073</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Karin och Harald Johnssons efterlämnade papper</titleproper>
+<subtitle></subtitle>
+<author>.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Kungl. biblioteket</publisher>
+<date type="publication">2007-03-21</date>
+<address><addressline>Humlegården</addressline><addressline>Box 5039</addressline><addressline>102 41 Stockholm</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation> PS 
+<date>2007-03-21</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date encodinganalog="creation"></date>
+<item>Posten laddades upp första gången</item>
+</change>
+<change>
+<date encodinganalog="revision">2007-03-22</date>
+<item>Senaste revision</item>
+</change>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection" type="inventory">
+<did>
+	Översikt
+	<repository encodinganalog="852$a" label="Arkivinst.:">
+<corpname>Kungl. biblioteket</corpname>
+<address><addressline>Humlegården</addressline><addressline>Box 5039</addressline><addressline>102 41 Stockholm</addressline></address>
+</repository>
+<origination label="Arkivbildare:">
+<persname encodinganalog="100">Johnsson, Karin (1889-1968), född Johansson, författare; Johnsson, Karl Olof Harald (1886-1936), författare.</persname>
+</origination>
+<unittitle encodinganalog="245$a" label="Titel:">Karin och Harald Johnssons efterlämnade papper</unittitle>
+<unitdate label="Tid:">1918 -- 1964</unitdate>
+<physdesc encodinganalog="300$a" label="Omfång:">
+<extent unit="hyllm.">1,7  hyllmeter</extent>
+<extent unit="vol.">43  volymer</extent>
+</physdesc>
+<unitid countrycode="SE" encodinganalog="099" label="Referenskod:" repositorycode="KB">L0073</unitid>
+<langmaterial>
+<language langcode="swe"> Svenska </language>
+</langmaterial>
+</did>
+<!-- INNEHÅLL -->
+<scopecontent>
+	Sammanfattning 
+	<p>Samlingen innehåller brev, manuskript, anteckningar och utkast, biographica, fotografier samt pressklipp tillhörande författarna Karin och Harald Johnsson.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b">
+<p>Breven är förtecknade. Kontakta Handskriftsenheten för information.</p>
+</arrangement>
+<bioghist encodinganalog="545">
+<p>Författarparet Karin och Harald Johnsson gifte sig 1913 i Stockholm.</p><p>
+
+Karin Johnsson studerade 1909-1910 historia och egyptologi i Köpenhamn och Paris. Hon debuterade som författarinna 1917 med sin roman "Dora". Hennes efterföljande böcker behandlar mer eller mindre historiska händelser i Skandinavien eller det gamla Egypten. Under 30-talet tillkom en rad reseskildringar från mellanöstern samt Italien. Vidare översatte Karin Johnsson många detektivromaner av pseudonymen Stein Riverton (Sven Elvestad).</p><p>
+
+Harald Johnsson gav sin debut som författare 1906 i den lundensiska vårkalendern "Nya dagar" med en samling vers och fragment. Hans senare diktsamlingar är påverkade av nittiotalisterna. I sina prosaverk behandlade Harald Johnsson bl.a. student- och värnpliktsliv, men också ensamma människors framtidsgrubbel och dragning mot alkoholism och kriminalitet. Hans båda största romaner ("Ödemarkslandet" och "Sven Ådal") har många gemensamma och tydligen självbiografiska drag. Under pseudonymen Robinson Wilkins skrev Harald Johnsson från och med 1915 en lång rad detektivromaner, ofta i form av s.k. 25-öresböcker, för Dahlbergs förlag. Men även i andra genrer var han en produktiv författare. Så skrev han exempelvis äventyrs-, kärleks- och herrgårdsromaner, sagor och pojkberättelser, ofta under olika pseudonymer.
+
+</p>
+</bioghist>
+<custodhist encodinganalog="561">
+	Arkivhistorik
+	<p>En samling fotografier, huvudsakligen från främre Orienten, har överlämnats till bild- och kartavdelningen.</p><p>Följande brev har utbrutits ur samlingen: Brev till Sophie Christine Frederikke (Friedrike) Brun, född Münter (Ep. B 22) från C. G. von Brinkman, 2 st., 1817 och 1818 samt från Mme de Staël, 43 st., 1801-1817. Brev till K. L. Rahbek (Autografsamlingen) från Carl Fredrik Gyllenborg, 1 st., 1801.</p>
+</custodhist>
+<acqinfo encodinganalog="541" id="a19">
+	Accession
+	<p>Gåva.</p>
+</acqinfo>
+<userestrict encodinganalog="540" id="a15">
+	Inskränkningar i användning 
+	<p>Vissa delar av samlingen kan omfattas av lagen om upphovsrätt.</p>
+</userestrict>
+<!-- ÄMNESORD: -->
+<controlaccess>
+		Handlingstyper:
+			<genreform>Brev</genreform>
+<genreform>Biographica</genreform>
+<genreform>Manuskript</genreform>
+<genreform>Anteckningar</genreform>
+<genreform>Pressklipp</genreform>
+<genreform>Fotografier</genreform>
+<genreform>Tryck</genreform>
+</controlaccess>
+<controlaccess>
+		 Ämnesord:
+			<subject encodinganalog="650" source="local_class"> L </subject>
+<subject encodinganalog="650" source="local_class"> [M] </subject>
+<subject encodinganalog="650" source="sao"> Svenska författare </subject>
+</controlaccess>
+<!-- FÖRTECKNING KOMPONENTER: -->
+<dsc id="a23" type="combined">
+Förteckning
+
+<c01 level="series">
+<did>
+<unitid>L73:1</unitid>
+<unittitle>Brev till och från Karin Johnsson. </unittitle>
+<unitdate>1918 -- 1964, odaterad</unitdate>
+<note><p><emph render="italic">Ett brev från Government Arab College, Jerusalem till Karin Johnsson (1934) finns i L73:43.</emph></p></note>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L73:1</unitid>
+<unittitle>Biographica </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L73:2-12</unitid>
+<unittitle>Manuskript av Karin Johnsson </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Abdullah, Kung av Transjordanien </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Beduiner och beduinfurstar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Besök i Transjordanien </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Bland druzerhövdingar på Libanon </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Bland pilgrimer på berget Ararat jämte ökensagor </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Dagar i en belägrad stad </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Dagar i Heidenstams Damaskus </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Dagligt liv i Österlandet </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Den kolorerade veckopressen i Österlandet </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Egypten i fest och vardag </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Egyptologi jämte översättningar av egyptisk lyrik </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>En arabfurste i landsflykt </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>En beduinfurste och hans folk </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>En färd genom Bibelns länder </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>En pilgrimsfärd (av Ingerlin) jämte Filemon (av Ingerlin) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>En påskafton i Konungarnas Dal </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Eros på skolbänken </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Farser och tragedier ur haremslivet </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Filmens, romanens och verklighetens shejk </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Heliga platser i Palestina </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Herodes den Store, sådan han var </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>Hos beduiner </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>I Bagdad, sagornas stad </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:2</unitid>
+<unittitle>I onåd hos orientaler </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:3</unitid>
+<unittitle>I nöd och lust genom Europa </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:3</unitid>
+<unittitle>Irak - det gamla Mesopotamien </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:3</unitid>
+<unittitle>Jul i den första julens stad </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:3</unitid>
+<unittitle>Karavanstäder i Syriska öknen </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:3</unitid>
+<unittitle>Kärlekens drottningar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:4</unitid>
+<unittitle>Kärleken i Österlandet </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Med flygande mattan till Bagdad </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Minnen från Bibelns dagar i Palestina </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Möte med en sagokung </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Möte med Lawrence av Arabien och hans hjältar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Nasaret, staden där Jesus levat </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>När dalabönderna kom till Jerusalem </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>När man blir tagen som smugglare </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>När Syrien proklamerades som republik </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Orientaliska medicinmän </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Påsk i Egypten </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Schejkromantik </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Skalden och prinsessan </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:5</unitid>
+<unittitle>Solkonungens moder </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:6</unitid>
+<unittitle>Som pilgrim till Mecka </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:6</unitid>
+<unittitle>Transjordanien, en oroshärd i Mellersta Östern </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:7</unitid>
+<unittitle>Utan guide </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:8</unitid>
+<unittitle>Vår och friska vindar över Arabien </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:8</unitid>
+<unittitle>Västerländskt ljus i Österlandet </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:8</unitid>
+<unittitle>Äventyr i tre världsdelar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:8</unitid>
+<unittitle>Öknarnas folk </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:8</unitid>
+<unittitle>Österländska regenter </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Början till en roman om svenska utvandrare till Delaware </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Dyvekes hus </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Då teatern kom till Falkenberg </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>En afton på Rosenborg </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>En legend från Halland </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Fattigsolen </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Fröken Sörensen från Langeland </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Fågelboet - ett halländskt hembygdsmuseum </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Förlovning på julafton </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Gudarnas guld </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Gyllenbom </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Hos tvätterskan </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Ibsen, Björnsson, Kielland </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Och aldrig mötas de två </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Professor V. Schmidt 83 år </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Prolog vid Höstsols soirée i Göteborg </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>På havet </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>På Lyckeby kyrkogård </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Strindberg </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Thomas Krag </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Tristan och Isolde </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Ungdom </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Under julens stjärnor </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Vårmarknad </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:9</unitid>
+<unittitle>Vårmarknad i Ätra stad </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:10</unitid>
+<unittitle>Potifars hustru </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:11</unitid>
+<unittitle>En kungamördare i landsflykt </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:12</unitid>
+<unittitle>Skådespel </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Apollons pilar (av Uno Boklund)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Den stora filmen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Drama</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Korfitz Ulfeldt</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Magnus Stenbock (av I. Andersson)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Två bröder</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Vallfart till Mecka</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:12</unitid>
+<unittitle>Bibliografisk förteckning, övriga anteckningar, uppsatser, orubricerade manuskript med mera </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L73:13-16</unitid>
+<unittitle>Manuskript av Harald Johnsson </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L73:13</unitid>
+<unittitle>Aaron Trolltrotsaren </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:14</unitid>
+<unittitle>De tre jättarna </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:14</unitid>
+<unittitle>Den sjunkna staden </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:14</unitid>
+<unittitle>Europas födelse jämte fem skildringar med historiska motiv </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:15</unitid>
+<unittitle>Goda ovänner </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:15</unitid>
+<unittitle>Hunger </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:15</unitid>
+<unittitle>Lyrik </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:15</unitid>
+<unittitle>Mor </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:15</unitid>
+<unittitle>Mor och hennes katt </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:15</unitid>
+<unittitle>När ljuset återkom </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>O, hören mig... (Devis på kyrkklocka) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>Pappersrosorna </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>Påskhymn </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>Sagokronan </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>Tre vänner </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>Vid Mors grav </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>Vägen ur kaos </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L73:16</unitid>
+<unittitle>Bibliografiska förteckningar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L73:17-40</unitid>
+<unittitle>Pressklipp </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L73:41</unitid>
+<unittitle>Fotografialbum </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L73:42</unitid>
+<unittitle>Visitkortsalbum </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L73:43</unitid>
+<unittitle>Diverse </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>Tryck och pressklipp (artiklar av Karin Johnsson) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>Avskrift (Drottning Caroline Mathilde av Holger Drachmann) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>Bilder i tidningen Søndag. Foto: Karin Johnsson </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>Medalj samt namnbricka: 100-år Bonniers </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>Brev från Government Arab College, Jerusalem till Karin Johnsson, 1 st. </unittitle>
+<unitdate>1934</unitdate>
+<note><p><emph render="italic">ej förtecknat i L73:1 (Brev till och från Karin Johnsson)</emph></p></note>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+</dsc>
+<!-- SLUT FÖRTECKNING -->
+</archdesc>
+</ead>
+</body></html>

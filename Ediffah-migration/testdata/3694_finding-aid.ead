@@ -1,0 +1,1050 @@
+<html><body><ead audience="external" relatedencoding="MARC21">
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="J" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid countrycode="SE" identifier="ediffah:kb:187003:1161070191" mainagencycode="kb">L0158</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Asta Wickmans samling</titleproper>
+<subtitle></subtitle>
+<author>.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Kungl. biblioteket</publisher>
+<date type="publication">2006-10-13</date>
+<address><addressline>Humlegården</addressline><addressline>Box 5039</addressline><addressline>102 41 Stockholm</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation> KS 
+<date>2006-10-13</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date encodinganalog="creation"></date>
+<item>Posten laddades upp första gången</item>
+</change>
+<change>
+<date encodinganalog="revision">2006-11-01</date>
+<item>Senaste revision</item>
+</change>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection" type="inventory">
+<did>
+	Översikt
+	<repository encodinganalog="852$a" label="Arkivinst.:">
+<corpname>Kungl. biblioteket</corpname>
+<address><addressline>Humlegården</addressline><addressline>Box 5039</addressline><addressline>102 41 Stockholm</addressline></address>
+</repository>
+<origination label="Arkivbildare:">
+<persname encodinganalog="100">Wickman, Asta (1895-1983), översättare</persname>
+</origination>
+<unittitle encodinganalog="245$a" label="Titel:">Asta Wickmans samling</unittitle>
+<unitdate label="Tid:">1946 -- 1982</unitdate>
+<physdesc encodinganalog="300$a" label="Omfång:">
+<extent unit="hyllm.">1,30  hyllmeter</extent>
+<extent unit="vol.">13  volymer</extent>
+</physdesc>
+<unitid countrycode="SE" encodinganalog="099" label="Referenskod:" repositorycode="KB">L0158</unitid>
+<langmaterial>
+<language langcode="swe"> Svenska </language>
+<language langcode="Ryska"> Ryska </language>
+</langmaterial>
+</did>
+<!-- INNEHÅLL -->
+<bioghist encodinganalog="545">
+<p>Asta Wickman var verksam som översättare av rysk skönlitteratur. Hennes tolkningar av bl. a. Turgenjev, Tolstoj, Tjechov och Gorkij till svenska var en pionjärinsats och har blivit klassiska.</p>
+</bioghist>
+<scopecontent>
+	Sammanfattning 
+	<p>Samlingen innehåller brev och en mängd översättningar i mauskriptform m. m. Består av två accessioner; 1977/42 och 1983/4.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b">
+<p>Breven är förtecknade. Kontakta Handskriftsenheten för information.</p>
+</arrangement>
+<acqinfo encodinganalog="541" id="a19">
+	Accession
+	<p>Gåva.</p>
+</acqinfo>
+<!-- ÄMNESORD: -->
+<controlaccess>
+		Handlingstyper:
+			<genreform>Brev</genreform>
+<genreform>Pressklipp</genreform>
+<genreform>Fotografier</genreform>
+<genreform>Manuskript, prosa</genreform>
+</controlaccess>
+<controlaccess>
+		 Ämnesord:
+			<subject encodinganalog="650" source="local_class"> L </subject>
+<subject encodinganalog="650" source="sao"> Översättningar </subject>
+<subject encodinganalog="650" source="sao"> Ryska författare </subject>
+<subject encodinganalog="650" source="sao"> Rysk litteratur </subject>
+</controlaccess>
+<userestrict encodinganalog="540" id="a15">
+	Inskränkningar i användning 
+	<p>Vissa delar av samlingen kan omfattas av lagen om upphovsrätt.</p>
+</userestrict>
+<!-- FÖRTECKNING KOMPONENTER: -->
+<dsc id="a23" type="combined">
+Förteckning
+
+<c01 level="series">
+<did>
+<unitid>L158:1 a</unitid>
+<unittitle>Brev till Asta Wickman </unittitle>
+<unitdate></unitdate>
+</did>
+<note><p><emph render="italic">147 st brev från olika personer och institutioner.</emph></p></note>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L158:1 b</unitid>
+<unittitle>Brev från Asta Wickman </unittitle>
+<unitdate></unitdate>
+</did>
+<note><p><emph render="italic">89 st brev till diverse personer och institutioner.</emph></p></note>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L158:2 a-h</unitid>
+<unittitle>Manuskript, översättningar från ryska </unittitle>
+<unitdate></unitdate>
+</did>
+<note><p><emph render="italic">Förutom maskinskrivna manuskript (med kommentarer och rättelser) även handskrivna utkast till manuskript och korrektur. Serien innehåller framför allt noveller av ryska författare. Förvaras i 8 kapslar, benämnda a - h.</emph></p></note>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L158:2 a</unitid>
+<unittitle>Manuskript (A - F) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Andreev, Leonid : Ben-Tavit'.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Andreev, Leonid : Försvaret.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Andreev, Leonid : Jorden.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Babel, Isaak : Den första kärleken.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Babel, Isaak : Helige Ipatievs slut.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Bjadoulja, D. : Vargen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Bunin, Ivan : Kasimir Stanislavovic.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Cirikov, Evgenij : Syrener.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Dunsany, Lord : Råttan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Erenburg, Ilja : Spillror.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Esenin, Sergej : Vid Vitvattnet.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Evtych, Asker : Vi har den seden ... .</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Harner, Virginia : Ett ögonblicks dårskap.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Farrere, Claude : Händerna.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Fedin, Konstantin : Berättelse om ett palats.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Fedin, Konstantin : Möte med det förflutna.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Flaubert, Gustave : Legenden om S:t Julien... .</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L158:2 b</unitid>
+<unittitle>Manuskript (G - Kat) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Gorkij, Maksim : Gubben.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Gorkij, Maksim : En silverslant.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Gorkij, Maksim : Ljusgrått med himmelsblått.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Huch, Ricarda : Vita nätter.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Hönan med guldäggen (rysk påsksaga).</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Isbach, Al : Drömmen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Jakovlev, Aleksandr : Midnattsbrudgummen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kann, E. : Leo Tolstojs vals.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kataev, Valentin : De små rödbruna korsen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kataev, Valentin : Fader vår.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kataev, Valentin : Flaggan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kataev, Valentin : Mannen med byltet.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kataev, Valentin : Musik.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L158:2 c</unitid>
+<unittitle>Manuskript (Kav - R) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kaverin, Veniamin : Bältet.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kaverin, Veniamin : Knopen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Korolenko, Vladimir : Den gamle ringaren.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kuprin, Aleksandr : Pirat.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kuprin, Aleksandr : Skräck.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Leonov, Leonid : Egoruskas undergång.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Leonov, Leonid : Mörkt vatten.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Neverov, Aleksandr : Ung kvinna.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Pasternak, Boris : Luftens vägar.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Patapenko, Ignatij : Den tolfte.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Paustovskij, Konstantin : Den gamla ekan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Paustovskij, Konstantin : Den gamle kocken.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Paustovskij, Konstantin : Det gamla husets invånare.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Paustovskij, Konstantin : Farmors trädgård.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Paustovskij, Konstantin : Lionka från Lillsjön.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Paustovskij, Konstantin : Sommar i Voronesj.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Paustovskijs självbiografi (förord på ryska).</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Pavlenko, Petr : En berättelse från bergen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Pavlenko, Petr : Livet.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Pilnjak, Boris : Utan namn.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Rieger, J. G. : Hörnet av Hongkong-Road.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Romanov, Pantelejmon : Vid färjestället.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L158:2 d</unitid>
+<unittitle>Manuskript (S - Ser) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Sejfullina, Lidija : Två vänner.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Bomberna.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Björnen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Den lilla ringen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Det gyllene ankaret.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Episka.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Ett barn.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Han kom.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Hur han dog.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : I baraken.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Morgon.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Mördaren.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Så gick det till.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L158:2 e</unitid>
+<unittitle>Manuskript (S - Ser) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Sällsam natt.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Två dödar.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Vårflod.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Serafimovic, Aleksandr : Diverse.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L158:2 f</unitid>
+<unittitle>Manuskript (Sis - Tje) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Siskov, Vjaceslav : Det generösa offret.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Siskov, Vjaceslav : Klockan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Solochov, Michail : Födelsemärket.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Solochov, Michail : Hatets sådd.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tichonov, Nikolaj : Jag lever än.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Andras olycka.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Damen med hunden.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Herdepipan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L158:2 g</unitid>
+<unittitle>Manuskript (T) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Gästen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Häxan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : I passionsveckan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Mitt liv.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Pecenegen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : På julnatten.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Rymlingen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Själamässan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : S:ta Simplicitas.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : Tårar som världen aldrig ser... .</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : manus och rollförteckning (film för TV). Originalmanus på ryska, anteckningar m. m.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tjechov, Anton : förteckning över Tjechovs till svenska översatta verk.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L158:2 h</unitid>
+<unittitle>Manuskript (Tol - V) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tolstoj, Aleksej : Den ryska karaktären.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tolstoj, Aleksej : Herden och Marinka.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tolstoj, Aleksej : Natasja.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tolstoj, Aleksej : Vit natt.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tolstoj, Lev Nikolaevic : Natasja Rostova. Opublicerad variant av Krig och fred.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tolstoj-Suchotina, Tatjana : L. N. Tolstoj från födelse till giftermålet.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Byn.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Dumhuvudet.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : En sjöresa.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Gubben.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Han skall hängas.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Hunden.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Hur vackra, hur friska rosorna var... .</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Kålsoppan.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Masja.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Rosen.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Turgenev, Ivan : Tiggaren.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Veresaev, Vikentij : Författaren.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Veresaev, Vikentij : Slumpens spel.</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L158:3 a-h</unitid>
+<unittitle>Diverse </unittitle>
+<unitdate></unitdate>
+</did>
+<note><p><emph render="italic">Serien förvaras i en kapsel.</emph></p></note>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>a. Material till antologin "Rysk Mosaik". </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>b. Material till studier om tsarfamiljen Romanov (anteckningar och fotokopior). </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>c. Asta Wickmans royaltyredovisningar (16 st). </unittitle>
+<unitdate>1956-1973</unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>d. Leskov, Nikolaj : Bedrägeriet. Översättning av T. Blomkvist, manuskript, 44 blad. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>e. Milton, Harry : Anton Tjechovs "Damen med hunden" och den svenska översättningen av novellen. Uppsats framlagd vid seminarium vt 1968, Linköpings Universitet. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>f. Ryska original till berättelser av Tjechov, Gorkij och Tolstoj (fotokopior). </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>g. Bildmaterial (27 st fotografier på ryska författare). </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>h. Diverse (foldrar, räkningar, diverse anteckningar m. m.). </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L158:4</unitid>
+<unittitle>Pressklipp </unittitle>
+<unitdate></unitdate>
+</did>
+<note><p><emph render="italic">Serien förvaras i tre kapslar.</emph></p></note>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>A - O. Noveller av ryska författare översatta till svenska.</unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>P - S. Noveller av ryska författare översatta till svenska. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>T - V. Noveller av ryska författare översatta till svenska. Recensioner, annonser, artiklar m. m. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+</dsc>
+<!-- SLUT FÖRTECKNING -->
+</archdesc>
+</ead>
+</body></html>

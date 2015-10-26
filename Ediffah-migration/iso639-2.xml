@@ -1,0 +1,1934 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+iso639-2.xml
+-->
+
+<!DOCTYPE langlist
+[
+<!ELEMENT langlist (langpair)+ >
+<!ELEMENT langpair (langeng, langfre) >
+<!ATTLIST langpair code CDATA #REQUIRED >
+<!ELEMENT langeng (#PCDATA) >
+<!ELEMENT langfre (#PCDATA) >
+<!-- iso-lat1.ent (initially distributed with DocBook XML DTD V4.1.1beta1) -->
+<!-- Derived from the corresponding ISO 8879 standard entity set
+ and the Unicode character mappings provided by Sebastian Rahtz -->
+<!ENTITY aacute	"&#x00E1;"> <!-- LATIN SMALL LETTER A WITH ACUTE -->
+<!ENTITY Aacute	"&#x00C1;"> <!-- LATIN CAPITAL LETTER A WITH ACUTE -->
+<!ENTITY acirc	"&#x00E2;"> <!-- LATIN SMALL LETTER A WITH CIRCUMFLEX -->
+<!ENTITY Acirc	"&#x00C2;"> <!-- LATIN CAPITAL LETTER A WITH CIRCUMFLEX -->
+<!ENTITY agrave	"&#x00E0;"> <!-- LATIN SMALL LETTER A WITH GRAVE -->
+<!ENTITY Agrave	"&#x00C0;"> <!-- LATIN CAPITAL LETTER A WITH GRAVE -->
+<!ENTITY aring	"&#x00E5;"> <!-- LATIN SMALL LETTER A WITH RING ABOVE -->
+<!ENTITY Aring	"&#x00C5;"> <!-- LATIN CAPITAL LETTER A WITH RING ABOVE -->
+<!ENTITY atilde	"&#x00E3;"> <!-- LATIN SMALL LETTER A WITH TILDE -->
+<!ENTITY Atilde	"&#x00C3;"> <!-- LATIN CAPITAL LETTER A WITH TILDE -->
+<!ENTITY auml	"&#x00E4;"> <!-- LATIN SMALL LETTER A WITH DIAERESIS -->
+<!ENTITY Auml	"&#x00C4;"> <!-- LATIN CAPITAL LETTER A WITH DIAERESIS -->
+<!ENTITY aelig	"&#x00E6;"> <!-- LATIN SMALL LETTER AE -->
+<!ENTITY AElig	"&#x00C6;"> <!-- LATIN CAPITAL LETTER AE -->
+<!ENTITY ccedil	"&#x00E7;"> <!-- LATIN SMALL LETTER C WITH CEDILLA -->
+<!ENTITY Ccedil	"&#x00C7;"> <!-- LATIN CAPITAL LETTER C WITH CEDILLA -->
+<!ENTITY eth	"&#x00F0;"> <!-- LATIN SMALL LETTER ETH -->
+<!ENTITY ETH	"&#x00D0;"> <!-- LATIN CAPITAL LETTER ETH -->
+<!ENTITY eacute	"&#x00E9;"> <!-- LATIN SMALL LETTER E WITH ACUTE -->
+<!ENTITY Eacute	"&#x00C9;"> <!-- LATIN CAPITAL LETTER E WITH ACUTE -->
+<!ENTITY ecirc	"&#x00EA;"> <!-- LATIN SMALL LETTER E WITH CIRCUMFLEX -->
+<!ENTITY Ecirc	"&#x00CA;"> <!-- LATIN CAPITAL LETTER E WITH CIRCUMFLEX -->
+<!ENTITY egrave	"&#x00E8;"> <!-- LATIN SMALL LETTER E WITH GRAVE -->
+<!ENTITY Egrave	"&#x00C8;"> <!-- LATIN CAPITAL LETTER E WITH GRAVE -->
+<!ENTITY euml	"&#x00EB;"> <!-- LATIN SMALL LETTER E WITH DIAERESIS -->
+<!ENTITY Euml	"&#x00CB;"> <!-- LATIN CAPITAL LETTER E WITH DIAERESIS -->
+<!ENTITY iacute	"&#x00ED;"> <!-- LATIN SMALL LETTER I WITH ACUTE -->
+<!ENTITY Iacute	"&#x00CD;"> <!-- LATIN CAPITAL LETTER I WITH ACUTE -->
+<!ENTITY icirc	"&#x00EE;"> <!-- LATIN SMALL LETTER I WITH CIRCUMFLEX -->
+<!ENTITY Icirc	"&#x00CE;"> <!-- LATIN CAPITAL LETTER I WITH CIRCUMFLEX -->
+<!ENTITY igrave	"&#x00EC;"> <!-- LATIN SMALL LETTER I WITH GRAVE -->
+<!ENTITY Igrave	"&#x00CC;"> <!-- LATIN CAPITAL LETTER I WITH GRAVE -->
+<!ENTITY iuml	"&#x00EF;"> <!-- LATIN SMALL LETTER I WITH DIAERESIS -->
+<!ENTITY Iuml	"&#x00CF;"> <!-- LATIN CAPITAL LETTER I WITH DIAERESIS -->
+<!ENTITY ntilde	"&#x00F1;"> <!-- LATIN SMALL LETTER N WITH TILDE -->
+<!ENTITY Ntilde	"&#x00D1;"> <!-- LATIN CAPITAL LETTER N WITH TILDE -->
+<!ENTITY oacute	"&#x00F3;"> <!-- LATIN SMALL LETTER O WITH ACUTE -->
+<!ENTITY Oacute	"&#x00D3;"> <!-- LATIN CAPITAL LETTER O WITH ACUTE -->
+<!ENTITY ocirc	"&#x00F4;"> <!-- LATIN SMALL LETTER O WITH CIRCUMFLEX -->
+<!ENTITY Ocirc	"&#x00D4;"> <!-- LATIN CAPITAL LETTER O WITH CIRCUMFLEX -->
+<!ENTITY ograve	"&#x00F2;"> <!-- LATIN SMALL LETTER O WITH GRAVE -->
+<!ENTITY Ograve	"&#x00D2;"> <!-- LATIN CAPITAL LETTER O WITH GRAVE -->
+<!ENTITY oslash	"&#x00F8;"> <!-- LATIN SMALL LETTER O WITH STROKE -->
+<!ENTITY Oslash	"&#x00D8;"> <!-- LATIN CAPITAL LETTER O WITH STROKE -->
+<!ENTITY otilde	"&#x00F5;"> <!-- LATIN SMALL LETTER O WITH TILDE -->
+<!ENTITY Otilde	"&#x00D5;"> <!-- LATIN CAPITAL LETTER O WITH TILDE -->
+<!ENTITY ouml	"&#x00F6;"> <!-- LATIN SMALL LETTER O WITH DIAERESIS -->
+<!ENTITY Ouml	"&#x00D6;"> <!-- LATIN CAPITAL LETTER O WITH DIAERESIS -->
+<!ENTITY szlig	"&#x00DF;"> <!-- LATIN SMALL LETTER SHARP S -->
+<!ENTITY thorn	"&#x00FE;"> <!-- LATIN SMALL LETTER THORN -->
+<!ENTITY THORN	"&#x00DE;"> <!-- LATIN CAPITAL LETTER THORN -->
+<!ENTITY uacute	"&#x00FA;"> <!-- LATIN SMALL LETTER U WITH ACUTE -->
+<!ENTITY Uacute	"&#x00DA;"> <!-- LATIN CAPITAL LETTER U WITH ACUTE -->
+<!ENTITY ucirc	"&#x00FB;"> <!-- LATIN SMALL LETTER U WITH CIRCUMFLEX -->
+<!ENTITY Ucirc	"&#x00DB;"> <!-- LATIN CAPITAL LETTER U WITH CIRCUMFLEX -->
+<!ENTITY ugrave	"&#x00F9;"> <!-- LATIN SMALL LETTER U WITH GRAVE -->
+<!ENTITY Ugrave	"&#x00D9;"> <!-- LATIN CAPITAL LETTER U WITH GRAVE -->
+<!ENTITY uuml	"&#x00FC;"> <!-- LATIN SMALL LETTER U WITH DIAERESIS -->
+<!ENTITY Uuml	"&#x00DC;"> <!-- LATIN CAPITAL LETTER U WITH DIAERESIS -->
+<!ENTITY yacute	"&#x00FD;"> <!-- LATIN SMALL LETTER Y WITH ACUTE -->
+<!ENTITY Yacute	"&#x00DD;"> <!-- LATIN CAPITAL LETTER Y WITH ACUTE -->
+<!ENTITY yuml	"&#x00FF;"> <!-- LATIN SMALL LETTER Y WITH DIAERESIS -->
+]>
+
+
+<langlist>
+<langpair code='aar'><langeng>Afar</langeng>
+	<langfre>afar</langfre>
+</langpair>
+<langpair code='abk'><langeng>Abkhazian</langeng>
+	<langfre>abkhaze</langfre>
+</langpair>
+<langpair code='ace'><langeng>Achinese</langeng>
+	<langfre>aceh</langfre>
+</langpair>
+<langpair code='ach'><langeng>Acoli</langeng>
+	<langfre>acoli</langfre>
+</langpair>
+<langpair code='ada'><langeng>Adangme</langeng>
+	<langfre>adangme</langfre>
+</langpair>
+<langpair code='afa'><langeng>Other Afro-Asiatic</langeng>
+	<langfre>autres langues afro-asiatiques</langfre>
+</langpair>
+<langpair code='afh'><langeng>Afrihili</langeng>
+	<langfre>afrihili</langfre>
+</langpair>
+<langpair code='afr'>
+	<langeng>Afrikaans</langeng>
+	<langfre>afrikaans</langfre>
+</langpair>
+<langpair code='aka'>
+	<langeng>Akan</langeng>
+	<langfre>akan</langfre>
+</langpair>
+<langpair code='akk'>
+	<langeng>Akkadian</langeng>
+	<langfre>akkadien</langfre>
+</langpair>
+<langpair code='alb'>
+	<langeng>Albanian</langeng>
+	<langfre>albanais</langfre>
+</langpair>
+<langpair code='ale'>
+	<langeng>Aleut</langeng>
+	<langfre>al&eacute;oute</langfre>
+</langpair>
+<langpair code='alg'>
+	<langeng>Algonquian languages</langeng>
+	<langfre>langues algonquines</langfre>
+</langpair>
+<langpair code='amh'>
+	<langeng>Amharic</langeng>
+	<langfre>amharique</langfre>
+</langpair>
+<langpair code='ang'>
+	<langeng>Old English (ca.450-1100)</langeng>
+	<langfre>anglo-saxon (ca.450-1100)</langfre>
+</langpair>
+<langpair code='apa'>
+	<langeng>Apache languages</langeng>
+	<langfre>apache</langfre>
+</langpair>
+<langpair code='ara'>
+	<langeng>Arabic</langeng>
+	<langfre>arabe</langfre>
+</langpair>
+<langpair code='arc'>
+	<langeng>Aramaic</langeng>
+	<langfre>aram&eacute;en</langfre>
+</langpair>
+<langpair code='arm'>
+	<langeng>Armenian</langeng>
+	<langfre>arm&eacute;nien</langfre>
+</langpair>
+<langpair code='arn'>
+	<langeng>Araucanian</langeng>
+	<langfre>araucan</langfre>
+</langpair>
+<langpair code='arp'>
+	<langeng>Arapaho</langeng>
+	<langfre>arapaho</langfre>
+</langpair>
+<langpair code='art'>
+	<langeng>Other Artificial</langeng>
+	<langfre>autres langues artificielles</langfre>
+</langpair>
+<langpair code='arw'>
+	<langeng>Arawak</langeng>
+	<langfre>arawak</langfre>
+</langpair>
+<langpair code='asm'>
+	<langeng>Assamese</langeng>
+	<langfre>assamais</langfre>
+</langpair>
+<langpair code='ast'>
+	<langeng>Asturian or Bable</langeng>
+	<langfre>asturien or bable</langfre>
+</langpair>
+<langpair code='ath'>
+	<langeng>Athapascan languages</langeng>
+	<langfre>langues athapascanes</langfre>
+</langpair>
+<langpair code='aus'>
+	<langeng>Australian languages</langeng>
+	<langfre>langues australiennes</langfre>
+</langpair>
+<langpair code='ava'>
+	<langeng>Avaric</langeng>
+	<langfre>avar</langfre>
+</langpair>
+<langpair code='ave'>
+	<langeng>Avestan</langeng>
+	<langfre>avestique</langfre>
+</langpair>
+<langpair code='awa'>
+	<langeng>Awadhi</langeng>
+	<langfre>awadhi</langfre>
+</langpair>
+<langpair code='aym'>
+	<langeng>Aymara</langeng>
+	<langfre>aymara</langfre>
+</langpair>
+<langpair code='aze'>
+	<langeng>Azerbaijani</langeng>
+	<langfre>az&eacute;ri</langfre>
+</langpair>
+<langpair code='bad'>
+	<langeng>Banda</langeng>
+	<langfre>banda</langfre>
+</langpair>
+<langpair code='bai'>
+	<langeng>Bamileke languages</langeng>
+	<langfre>langues bamil&eacute;k&eacute;s</langfre>
+</langpair>
+<langpair code='bak'>
+	<langeng>Bashkir</langeng>
+	<langfre>bachkir</langfre>
+</langpair>
+<langpair code='bal'>
+	<langeng>Baluchi</langeng>
+	<langfre>baloutchi</langfre>
+</langpair>
+<langpair code='bam'>
+	<langeng>Bambara</langeng>
+	<langfre>bambara</langfre>
+</langpair>
+<langpair code='ban'>
+	<langeng>Balinese</langeng>
+	<langfre>balinais</langfre>
+</langpair>
+<langpair code='baq'>
+	<langeng>Basque</langeng>
+	<langfre>basque</langfre>
+</langpair>
+<langpair code='bas'>
+	<langeng>Basa</langeng>
+	<langfre>basa</langfre>
+</langpair>
+<langpair code='bat'>
+	<langeng>Other Baltic</langeng>
+	<langfre>autres langues baltiques</langfre>
+</langpair>
+<langpair code='bej'>
+	<langeng>Beja</langeng>
+	<langfre>bedja</langfre>
+</langpair>
+<langpair code='bel'>
+	<langeng>Belarusian</langeng>
+	<langfre>bi&eacute;lorusse</langfre>
+</langpair>
+<langpair code='bem'>
+	<langeng>Bemba</langeng>
+	<langfre>bemba</langfre>
+</langpair>
+<langpair code='ben'>
+	<langeng>Bengali</langeng>
+	<langfre>bengali</langfre>
+</langpair>
+<langpair code='ber'>
+	<langeng>Other Berber</langeng>
+	<langfre>autres langues berb&egrave;res</langfre>
+</langpair>
+<langpair code='bho'>
+	<langeng>Bhojpuri</langeng>
+	<langfre>bhojpuri</langfre>
+</langpair>
+<langpair code='bih'>
+	<langeng>Bihari</langeng>
+	<langfre>bihari</langfre>
+</langpair>
+<langpair code='bik'>
+	<langeng>Bikol</langeng>
+	<langfre>bikol</langfre>
+</langpair>
+<langpair code='bin'>
+	<langeng>Bini</langeng>
+	<langfre>bini</langfre>
+</langpair>
+<langpair code='bis'>
+	<langeng>Bislama</langeng>
+	<langfre>bichlamar</langfre>
+</langpair>
+<langpair code='bla'>
+	<langeng>Siksika</langeng>
+	<langfre>blackfoot</langfre>
+</langpair>
+<langpair code='bnt'>
+	<langeng>Other Bantu</langeng>
+	<langfre>autres langues bantoues</langfre>
+</langpair>
+<langpair code='tib'>
+	<langeng>Tibetan</langeng>
+	<langfre>tib&eacute;tain</langfre>
+</langpair>
+<langpair code='bos'>
+	<langeng>Bosnian</langeng>
+	<langfre>bosniaque</langfre>
+</langpair>
+<langpair code='bra'>
+	<langeng>Braj</langeng>
+	<langfre>braj</langfre>
+</langpair>
+<langpair code='bre'>
+	<langeng>Breton</langeng>
+	<langfre>breton</langfre>
+</langpair>
+<langpair code='btk'>
+	<langeng>Batak (Indonesia)</langeng>
+	<langfre>batak (Indon&eacute;sie)</langfre>
+</langpair>
+<langpair code='bua'>
+	<langeng>Buriat</langeng>
+	<langfre>bouriate</langfre>
+</langpair>
+<langpair code='bug'>
+	<langeng>Buginese</langeng>
+	<langfre>bugi</langfre>
+</langpair>
+<langpair code='bul'>
+	<langeng>Bulgarian</langeng>
+	<langfre>bulgare</langfre>
+</langpair>
+<langpair code='bur'>
+	<langeng>Burmese</langeng>
+	<langfre>birman</langfre>
+</langpair>
+<langpair code='cad'>
+	<langeng>Caddo</langeng>
+	<langfre>caddo</langfre>
+</langpair>
+<langpair code='cai'>
+	<langeng>Other Central American Indian</langeng>
+	<langfre>autres langues indiennes d'Am&eacute;rique centrale</langfre>
+</langpair>
+<langpair code='car'>
+	<langeng>Carib</langeng>
+	<langfre>caribe</langfre>
+</langpair>
+<langpair code='cat'>
+	<langeng>Catalan</langeng>
+	<langfre>catalan</langfre>
+</langpair>
+<langpair code='cau'>
+	<langeng>Other Caucasian</langeng>
+	<langfre>autres langues caucasiennes</langfre>
+</langpair>
+<langpair code='ceb'>
+	<langeng>Cebuano</langeng>
+	<langfre>cebuano</langfre>
+</langpair>
+<langpair code='cel'>
+	<langeng>Other Celtic</langeng>
+	<langfre>autres langues celtiques</langfre>
+</langpair>
+<langpair code='cze'>
+	<langeng>Czech</langeng>
+	<langfre>tch&egrave;que</langfre>
+</langpair>
+<langpair code='cha'>
+	<langeng>Chamorro</langeng>
+	<langfre>chamorro</langfre>
+</langpair>
+<langpair code='chb'>
+	<langeng>Chibcha</langeng>
+	<langfre>chibcha</langfre>
+</langpair>
+<langpair code='che'>
+	<langeng>Chechen</langeng>
+	<langfre>tch&Eacute;tch&egrave;ne</langfre>
+</langpair>
+<langpair code='chg'>
+	<langeng>Chagatai</langeng>
+	<langfre>djaghata&iuml;</langfre>
+</langpair>
+<langpair code='chi'>
+	<langeng>Chinese</langeng>
+	<langfre>chinois</langfre>
+</langpair>
+<langpair code='chk'>
+	<langeng>Chuukese</langeng>
+	<langfre>chuuk</langfre>
+</langpair>
+<langpair code='chm'>
+	<langeng>Mari</langeng>
+	<langfre>mari</langfre>
+</langpair>
+<langpair code='chn'>
+	<langeng>Chinook jargon</langeng>
+	<langfre>jargon chinook</langfre>
+</langpair>
+<langpair code='cho'>
+	<langeng>Choctaw</langeng>
+	<langfre>choctaw</langfre>
+</langpair>
+<langpair code='chp'>
+	<langeng>Chipewyan</langeng>
+	<langfre>chipewyan</langfre>
+</langpair>
+<langpair code='chr'>
+	<langeng>Cherokee</langeng>
+	<langfre>cherokee</langfre>
+</langpair>
+<langpair code='chu'>
+	<langeng>Church Slavic or Old Slavonic or Church Slavonic or Old Bulgarian or Old Church Slavonic</langeng>
+	<langfre>slavon d'&eacute;glise or vieux slave or slavon liturgique or vieux bulgare</langfre>
+</langpair>
+<langpair code='chv'>
+	<langeng>Chuvash</langeng>
+	<langfre>tchouvache</langfre>
+</langpair>
+<langpair code='chy'>
+	<langeng>Cheyenne</langeng>
+	<langfre>cheyenne</langfre>
+</langpair>
+<langpair code='cmc'>
+	<langeng>Chamic languages</langeng>
+	<langfre>langues chames</langfre>
+</langpair>
+<langpair code='cop'>
+	<langeng>Coptic</langeng>
+	<langfre>copte</langfre>
+</langpair>
+<langpair code='cor'>
+	<langeng>Cornish</langeng>
+	<langfre>cornique</langfre>
+</langpair>
+<langpair code='cos'>
+	<langeng>Corsican</langeng>
+	<langfre>corse</langfre>
+</langpair>
+<langpair code='cpe'>
+	<langeng>Other English based Creoles and pidgins</langeng>
+	<langfre>autres cr&eacute;oles et pidgins anglais</langfre>
+</langpair>
+<langpair code='cpf'>
+	<langeng>Other French-based Creoles and pidgins</langeng>
+	<langfre>autres cr&eacute;oles et pidgins fran&ccedil;ais</langfre>
+</langpair>
+<langpair code='cpp'>
+	<langeng>Other Portuguese Creoles and pidgins</langeng>
+	<langfre>autres cr&eacute;oles et pidgins portugais</langfre>
+</langpair>
+<langpair code='cre'>
+	<langeng>Cree</langeng>
+	<langfre>cree</langfre>
+</langpair>
+<langpair code='crp'>
+	<langeng>Other Creoles and pidgins</langeng>
+	<langfre>cr&eacute;oles et pidgins divers</langfre>
+</langpair>
+<langpair code='cus'>
+	<langeng>Other Cushitic</langeng>
+	<langfre>autres langues couchitiques</langfre>
+</langpair>
+<langpair code='wel'>
+	<langeng>Welsh</langeng>
+	<langfre>gallois</langfre>
+</langpair>
+<langpair code='cze'>
+	<langeng>Czech</langeng>
+	<langfre>tch&egrave;que</langfre>
+</langpair>
+<langpair code='dak'>
+	<langeng>Dakota</langeng>
+	<langfre>dakota</langfre>
+</langpair>
+<langpair code='dan'>
+	<langeng>Danish</langeng>
+	<langfre>danois</langfre>
+</langpair>
+<langpair code='day'>
+	<langeng>Dayak</langeng>
+	<langfre>dayak</langfre>
+</langpair>
+<langpair code='del'>
+	<langeng>Delaware</langeng>
+	<langfre>delaware</langfre>
+</langpair>
+<langpair code='den'>
+	<langeng>Slave (Athapascan)</langeng>
+	<langfre>esclave (athapascan)</langfre>
+</langpair>
+<langpair code='ger'>
+	<langeng>German</langeng>
+	<langfre>allemand</langfre>
+</langpair>
+<langpair code='dgr'>
+	<langeng>Dogrib</langeng>
+	<langfre>dogrib</langfre>
+</langpair>
+<langpair code='din'>
+	<langeng>Dinka</langeng>
+	<langfre>dinka</langfre>
+</langpair>
+<langpair code='div'>
+	<langeng>Divehi</langeng>
+	<langfre>maldivien</langfre>
+</langpair>
+<langpair code='doi'>
+	<langeng>Dogri</langeng>
+	<langfre>dogri</langfre>
+</langpair>
+<langpair code='dra'>
+	<langeng>Other Dravidian</langeng>
+	<langfre>autres langues dravidiennes</langfre>
+</langpair>
+<langpair code='dua'>
+	<langeng>Duala</langeng>
+	<langfre>douala</langfre>
+</langpair>
+<langpair code='dum'>
+	<langeng>Middle Dutch (ca.1050-1350)</langeng>
+	<langfre>n&eacute;erlandais moyen (ca. 1050-1350)</langfre>
+</langpair>
+<langpair code='dut'>
+	<langeng>Dutch</langeng>
+	<langfre>n&eacute;erlandais</langfre>
+</langpair>
+<langpair code='dyu'>
+	<langeng>Dyula</langeng>
+	<langfre>dioula</langfre>
+</langpair>
+<langpair code='dzo'>
+	<langeng>Dzongkha</langeng>
+	<langfre>dzongkha</langfre>
+</langpair>
+<langpair code='efi'>
+	<langeng>Efik</langeng>
+	<langfre>efik</langfre>
+</langpair>
+<langpair code='egy'>
+	<langeng>Egyptian (Ancient)</langeng>
+	<langfre>&eacute;gyptien</langfre>
+</langpair>
+<langpair code='eka'>
+	<langeng>Ekajuk</langeng>
+	<langfre>ekajuk</langfre>
+</langpair>
+<langpair code='gre'>
+	<langeng>Modern Greek (1453-)</langeng>
+	<langfre>grec moderne (apr&egrave;s 1453)</langfre>
+</langpair>
+<langpair code='elx'>
+	<langeng>Elamite</langeng>
+	<langfre>&eacute;lamite</langfre>
+</langpair>
+<langpair code='eng'>
+	<langeng>English</langeng>
+	<langfre>anglais</langfre>
+</langpair>
+<langpair code='enm'>
+	<langeng>Middle English (1100-1500)</langeng>
+	<langfre>anglais moyen (1100-1500)</langfre>
+</langpair>
+<langpair code='epo'>
+	<langeng>Esperanto</langeng>
+	<langfre>esp&eacute;ranto</langfre>
+</langpair>
+<langpair code='est'>
+	<langeng>Estonian</langeng>
+	<langfre>estonien</langfre>
+</langpair>
+<langpair code='baq'>
+	<langeng>Basque</langeng>
+	<langfre>basque</langfre>
+</langpair>
+<langpair code='ewe'>
+	<langeng>Ewe</langeng>
+	<langfre>&eacute;w&eacute;</langfre>
+</langpair>
+<langpair code='ewo'>
+	<langeng>Ewondo</langeng>
+	<langfre>&eacute;wondo</langfre>
+</langpair>
+<langpair code='fan'>
+	<langeng>Fang</langeng>
+	<langfre>fang</langfre>
+</langpair>
+<langpair code='fao'>
+	<langeng>Faroese</langeng>
+	<langfre>f&eacute;ro&iuml;en</langfre>
+</langpair>
+<langpair code='per'>
+	<langeng>Persian</langeng>
+	<langfre>persan</langfre>
+</langpair>
+<langpair code='fat'>
+	<langeng>Fanti</langeng>
+	<langfre>fanti</langfre>
+</langpair>
+<langpair code='fij'>
+	<langeng>Fijian</langeng>
+	<langfre>fidjien</langfre>
+</langpair>
+<langpair code='fin'>
+	<langeng>Finnish</langeng>
+	<langfre>finnois</langfre>
+</langpair>
+<langpair code='fiu'>
+	<langeng>Other Finno-Ugrian</langeng>
+	<langfre>autres langues finno-ougriennes</langfre>
+</langpair>
+<langpair code='fon'>
+	<langeng>Fon</langeng>
+	<langfre>fon</langfre>
+</langpair>
+<langpair code='fre'>
+	<langeng>French</langeng>
+	<langfre>fran&ccedil;ais</langfre>
+</langpair>
+<langpair code='frm'>
+	<langeng>Middle French (ca.1400-1800)</langeng>
+	<langfre>fran&ccedil;ais moyen (1400-1800)</langfre>
+</langpair>
+<langpair code='fro'>
+	<langeng>Old French (842-ca.1400)</langeng>
+	<langfre>fran&ccedil;ais ancien (842-ca.1400)</langfre>
+</langpair>
+<langpair code='fry'>
+	<langeng>Frisian</langeng>
+	<langfre>frison</langfre>
+</langpair>
+<langpair code='ful'>
+	<langeng>Fulah</langeng>
+	<langfre>peul</langfre>
+</langpair>
+<langpair code='fur'>
+	<langeng>Friulian</langeng>
+	<langfre>frioulan</langfre>
+</langpair>
+<langpair code='gaa'>
+	<langeng>Ga</langeng>
+	<langfre>ga</langfre>
+</langpair>
+<langpair code='gay'>
+	<langeng>Gayo</langeng>
+	<langfre>gayo</langfre>
+</langpair>
+<langpair code='gba'>
+	<langeng>Gbaya</langeng>
+	<langfre>gbaya</langfre>
+</langpair>
+<langpair code='gem'>
+	<langeng>Other Germanic</langeng>
+	<langfre>autres langues germaniques</langfre>
+</langpair>
+<langpair code='geo'>
+	<langeng>Georgian</langeng>
+	<langfre>g&eacute;orgien</langfre>
+</langpair>
+<langpair code='ger'>
+	<langeng>German</langeng>
+	<langfre>allemand</langfre>
+</langpair>
+<langpair code='gez'>
+	<langeng>Geez</langeng>
+	<langfre>gu&egrave;ze</langfre>
+</langpair>
+<langpair code='gil'>
+	<langeng>Gilbertese</langeng>
+	<langfre>kiribati</langfre>
+</langpair>
+<langpair code='gla'>
+	<langeng>Gaelic or Scottish Gaelic</langeng>
+	<langfre>ga&eacute;lique or ga&eacute;lique &eacute;cossais</langfre>
+</langpair>
+<langpair code='gle'>
+	<langeng>Irish</langeng>
+	<langfre>irlandais</langfre>
+</langpair>
+<langpair code='glg'>
+	<langeng>Gallegan</langeng>
+	<langfre>galicien</langfre>
+</langpair>
+<langpair code='glv'>
+	<langeng>Manx</langeng>
+	<langfre> manx or mannois</langfre>
+</langpair>
+<langpair code='gmh'>
+	<langeng>Middle High German (ca.1050-1500)</langeng>
+	<langfre>moyen haut allemand (ca. 1050-1500)</langfre>
+</langpair>
+<langpair code='goh'>
+	<langeng>Old High German (ca.750-1050)</langeng>
+	<langfre>vieux haut allemand (ca. 750-1050)</langfre>
+</langpair>
+<langpair code='gon'>
+	<langeng>Gondi</langeng>
+	<langfre>gond</langfre>
+</langpair>
+<langpair code='gor'>
+	<langeng>Gorontalo</langeng>
+	<langfre>gorontalo</langfre>
+</langpair>
+<langpair code='got'>
+	<langeng>Gothic</langeng>
+	<langfre>gothique</langfre>
+</langpair>
+<langpair code='grb'>
+	<langeng>Grebo</langeng>
+	<langfre>grebo</langfre>
+</langpair>
+<langpair code='grc'>
+	<langeng>Ancient Greek (to 1453)</langeng>
+	<langfre>grec ancien (jusqu'&agrave; 1453)</langfre>
+</langpair>
+<langpair code='gre'>
+	<langeng>Modern Greek (1453-)</langeng>
+	<langfre>grec moderne (apr&egrave;s 1453)</langfre>
+</langpair>
+<langpair code='grn'>
+	<langeng>Guarani</langeng>
+	<langfre>guarani</langfre>
+</langpair>
+<langpair code='guj'>
+	<langeng>Gujarati</langeng>
+	<langfre>goudjrati</langfre>
+</langpair>
+<langpair code='gwi'>
+	<langeng>Gwich&#180;in</langeng>
+	<langfre>gwich&#180;in</langfre>
+</langpair>
+<langpair code='hai'>
+	<langeng>Haida</langeng>
+	<langfre>haida</langfre>
+</langpair>
+<langpair code='hau'>
+	<langeng>Hausa</langeng>
+	<langfre>haoussa</langfre>
+</langpair>
+<langpair code='haw'>
+	<langeng>Hawaiian</langeng>
+	<langfre>hawa&iuml;en</langfre>
+</langpair>
+<langpair code='heb'>
+	<langeng>Hebrew</langeng>
+	<langfre>h&eacute;breu</langfre>
+</langpair>
+<langpair code='her'>
+	<langeng>Herero</langeng>
+	<langfre>herero</langfre>
+</langpair>
+<langpair code='hil'>
+	<langeng>Hiligaynon</langeng>
+	<langfre>hiligaynon</langfre>
+</langpair>
+<langpair code='him'>
+	<langeng>Himachali</langeng>
+	<langfre>himachali</langfre>
+</langpair>
+<langpair code='hin'>
+	<langeng>Hindi</langeng>
+	<langfre>hindi</langfre>
+</langpair>
+<langpair code='hit'>
+	<langeng>Hittite</langeng>
+	<langfre>hittite</langfre>
+</langpair>
+<langpair code='hmn'>
+	<langeng>Hmong</langeng>
+	<langfre>hmong</langfre>
+</langpair>
+<langpair code='hmo'>
+	<langeng>Hiri Motu</langeng>
+	<langfre>hiri motu</langfre>
+</langpair>
+<langpair code='scr'>
+	<langeng>Croatian</langeng>
+	<langfre>croate</langfre>
+</langpair>
+<langpair code='hun'>
+	<langeng>Hungarian</langeng>
+	<langfre>hongrois</langfre>
+</langpair>
+<langpair code='hup'>
+	<langeng>Hupa</langeng>
+	<langfre>hupa</langfre>
+</langpair>
+<langpair code='arm'>
+	<langeng>Armenian</langeng>
+	<langfre>arm&eacute;nien</langfre>
+</langpair>
+<langpair code='iba'>
+	<langeng>Iban</langeng>
+	<langfre>iban</langfre>
+</langpair>
+<langpair code='ibo'>
+	<langeng>Igbo</langeng>
+	<langfre>igbo</langfre>
+</langpair>
+<langpair code='ice'>
+	<langeng>Icelandic</langeng>
+	<langfre>islandais</langfre>
+</langpair>
+<langpair code='ido'>
+	<langeng>Ido</langeng>
+	<langfre>ido</langfre>
+</langpair>
+<langpair code='ijo'>
+	<langeng>Ijo</langeng>
+	<langfre>ijo</langfre>
+</langpair>
+<langpair code='iku'>
+	<langeng>Inuktitut</langeng>
+	<langfre>inuktitut</langfre>
+</langpair>
+<langpair code='ile'>
+	<langeng>Interlingue</langeng>
+	<langfre>interlingue</langfre>
+</langpair>
+<langpair code='ilo'>
+	<langeng>Iloko</langeng>
+	<langfre>ilocano</langfre>
+</langpair>
+<langpair code='ina'>
+	<langeng>Interlingua (International Auxiliary Language Association)</langeng>
+	<langfre>interlingua (langue auxiliaire internationale)</langfre>
+</langpair>
+<langpair code='inc'>
+	<langeng>Other Indic</langeng>
+	<langfre>autres langues indo-aryennes</langfre>
+</langpair>
+<langpair code='ind'>
+	<langeng>Indonesian</langeng>
+	<langfre>indon&eacute;sien</langfre>
+</langpair>
+<langpair code='ine'>
+	<langeng>Other Indo-European</langeng>
+	<langfre>autres langues indo-europ&eacute;ennes</langfre>
+</langpair>
+<langpair code='ipk'>
+	<langeng>Inupiaq</langeng>
+	<langfre>inupiaq</langfre>
+</langpair>
+<langpair code='ira'>
+	<langeng>Other Iranian</langeng>
+	<langfre>autres langues iraniennes</langfre>
+</langpair>
+<langpair code='iro'>
+	<langeng>Iroquoian languages</langeng>
+	<langfre>langues iroquoises (famille)</langfre>
+</langpair>
+<langpair code='ice'>
+	<langeng>Icelandic</langeng>
+	<langfre>islandais</langfre>
+</langpair>
+<langpair code='ita'>
+	<langeng>Italian</langeng>
+	<langfre>italien</langfre>
+</langpair>
+<langpair code='jav'>
+	<langeng>Javanese</langeng>
+	<langfre>javanais</langfre>
+</langpair>
+<langpair code='jpn'>
+	<langeng>Japanese</langeng>
+	<langfre>japonais</langfre>
+</langpair>
+<langpair code='jpr'>
+	<langeng>Judeo-Persian</langeng>
+	<langfre>jud&eacute;o-persan</langfre>
+</langpair>
+<langpair code='jrb'>
+	<langeng>Judeo-Arabic</langeng>
+	<langfre>jud&eacute;o-arabe</langfre>
+</langpair>
+<langpair code='kaa'>
+	<langeng>Kara-Kalpak</langeng>
+	<langfre>karakalpak</langfre>
+</langpair>
+<langpair code='kab'>
+	<langeng>Kabyle</langeng>
+	<langfre>kabyle</langfre>
+</langpair>
+<langpair code='kac'>
+	<langeng>Kachin</langeng>
+	<langfre>kachin</langfre>
+</langpair>
+<langpair code='kal'>
+	<langeng>Kalaallisut</langeng>
+	<langfre>groenlandais</langfre>
+</langpair>
+<langpair code='kam'>
+	<langeng>Kamba</langeng>
+	<langfre>kamba</langfre>
+</langpair>
+<langpair code='kan'>
+	<langeng>Kannada</langeng>
+	<langfre>kannada</langfre>
+</langpair>
+<langpair code='kar'>
+	<langeng>Karen</langeng>
+	<langfre>karen</langfre>
+</langpair>
+<langpair code='kas'>
+	<langeng>Kashmiri</langeng>
+	<langfre>kashmiri</langfre>
+</langpair>
+<langpair code='geo'>
+	<langeng>Georgian</langeng>
+	<langfre>g&eacute;orgien</langfre>
+</langpair>
+<langpair code='kau'>
+	<langeng>Kanuri</langeng>
+	<langfre>kanouri</langfre>
+</langpair>
+<langpair code='kaw'>
+	<langeng>Kawi</langeng>
+	<langfre>kawi</langfre>
+</langpair>
+<langpair code='kaz'>
+	<langeng>Kazakh</langeng>
+	<langfre>kazakh</langfre>
+</langpair>
+<langpair code='kha'>
+	<langeng>Khasi</langeng>
+	<langfre>khasi</langfre>
+</langpair>
+<langpair code='khi'>
+	<langeng>Other Khoisan</langeng>
+	<langfre>autres langues khoisan</langfre>
+</langpair>
+<langpair code='khm'>
+	<langeng>Khmer</langeng>
+	<langfre>khmer</langfre>
+</langpair>
+<langpair code='kho'>
+	<langeng>Khotanese</langeng>
+	<langfre>khotanais</langfre>
+</langpair>
+<langpair code='kik'>
+	<langeng>Kikuyu or Gikuyu</langeng>
+	<langfre>kikuyu</langfre>
+</langpair>
+<langpair code='kin'>
+	<langeng>Kinyarwanda</langeng>
+	<langfre>rwanda</langfre>
+</langpair>
+<langpair code='kir'>
+	<langeng>Kirghiz</langeng>
+	<langfre>kirghize</langfre>
+</langpair>
+<langpair code='kmb'>
+	<langeng>Kimbundu</langeng>
+	<langfre>kimbundu</langfre>
+</langpair>
+<langpair code='kok'>
+	<langeng>Konkani</langeng>
+	<langfre>konkani</langfre>
+</langpair>
+<langpair code='kom'>
+	<langeng>Komi</langeng>
+	<langfre>kom</langfre>
+</langpair>
+<langpair code='kon'>
+	<langeng>Kongo</langeng>
+	<langfre>kongo</langfre>
+</langpair>
+<langpair code='kor'>
+	<langeng>Korean</langeng>
+	<langfre>cor&eacute;en</langfre>
+</langpair>
+<langpair code='kos'>
+	<langeng>Kosraean</langeng>
+	<langfre>kosrae</langfre>
+</langpair>
+<langpair code='kpe'>
+	<langeng>Kpelle</langeng>
+	<langfre>kpell&eacute;</langfre>
+</langpair>
+<langpair code='kro'>
+	<langeng>Kru</langeng>
+	<langfre>krou</langfre>
+</langpair>
+<langpair code='kru'>
+	<langeng>Kurukh</langeng>
+	<langfre>kurukh</langfre>
+</langpair>
+<langpair code='kua'>
+	<langeng>Kuanyama or Kwanyama</langeng>
+	<langfre>kuanyama or kwanyama</langfre>
+</langpair>
+<langpair code='kum'>
+	<langeng>Kumyk</langeng>
+	<langfre>koumyk</langfre>
+</langpair>
+<langpair code='kur'>
+	<langeng>Kurdish</langeng>
+	<langfre>kurde</langfre>
+</langpair>
+<langpair code='kut'>
+	<langeng>Kutenai</langeng>
+	<langfre>kutenai</langfre>
+</langpair>
+<langpair code='lad'>
+	<langeng>Ladino</langeng>
+	<langfre>jud&eacute;o-espagnol</langfre>
+</langpair>
+<langpair code='lah'>
+	<langeng>Lahnda</langeng>
+	<langfre>lahnda</langfre>
+</langpair>
+<langpair code='lam'>
+	<langeng>Lamba</langeng>
+	<langfre>lamba</langfre>
+</langpair>
+<langpair code='lao'>
+	<langeng>Lao</langeng>
+	<langfre>lao</langfre>
+</langpair>
+<langpair code='lat'>
+	<langeng>Latin</langeng>
+	<langfre>latin</langfre>
+</langpair>
+<langpair code='lav'>
+	<langeng>Latvian</langeng>
+	<langfre>letton</langfre>
+</langpair>
+<langpair code='lez'>
+	<langeng>Lezghian</langeng>
+	<langfre>lezghien</langfre>
+</langpair>
+<langpair code='lin'>
+	<langeng>Lingala</langeng>
+	<langfre>lingala</langfre>
+</langpair>
+<langpair code='lit'>
+	<langeng>Lithuanian</langeng>
+	<langfre>lituanien</langfre>
+</langpair>
+<langpair code='lol'>
+	<langeng>Mongo</langeng>
+	<langfre>mongo</langfre>
+</langpair>
+<langpair code='loz'>
+	<langeng>Lozi</langeng>
+	<langfre>lozi</langfre>
+</langpair>
+<langpair code='ltz'>
+	<langeng>Luxembourgish or Letzeburgesch</langeng>
+	<langfre>luxembourgeois</langfre>
+</langpair>
+<langpair code='lua'>
+	<langeng>Luba-Lulua</langeng>
+	<langfre>luba-lulua</langfre>
+</langpair>
+<langpair code='lub'>
+	<langeng>Luba-Katanga</langeng>
+	<langfre>luba-katanga</langfre>
+</langpair>
+<langpair code='lug'>
+	<langeng>Ganda</langeng>
+	<langfre>ganda</langfre>
+</langpair>
+<langpair code='lui'>
+	<langeng>Luiseno</langeng>
+	<langfre>luiseno</langfre>
+</langpair>
+<langpair code='lun'>
+	<langeng>Lunda</langeng>
+	<langfre>lunda</langfre>
+</langpair>
+<langpair code='luo'>
+	<langeng>Luo (Kenya and Tanzania)</langeng>
+	<langfre>luo (Kenya et Tanzanie)</langfre>
+</langpair>
+<langpair code='lus'>
+	<langeng>lushai</langeng>
+	<langfre>Lushai</langfre>
+</langpair>
+<langpair code='mac'>
+	<langeng>Macedonian</langeng>
+	<langfre>mac&eacute;donien</langfre>
+</langpair>
+<langpair code='mad'>
+	<langeng>Madurese</langeng>
+	<langfre>madourais</langfre>
+</langpair>
+<langpair code='mag'>
+	<langeng>Magahi</langeng>
+	<langfre>magahi</langfre>
+</langpair>
+<langpair code='mah'>
+	<langeng>Marshallese</langeng>
+	<langfre>marshall</langfre>
+</langpair>
+<langpair code='mai'>
+	<langeng>Maithili</langeng>
+	<langfre>maithili</langfre>
+</langpair>
+<langpair code='mak'>
+	<langeng>Makasar</langeng>
+	<langfre>makassar</langfre>
+</langpair>
+<langpair code='mal'>
+	<langeng>Malayalam</langeng>
+	<langfre>malayalam</langfre>
+</langpair>
+<langpair code='man'>
+	<langeng>Mandingo</langeng>
+	<langfre>mandingue</langfre>
+</langpair>
+<langpair code='mao'>
+	<langeng>Maori</langeng>
+	<langfre>maori</langfre>
+</langpair>
+<langpair code='map'>
+	<langeng>Other Austronesian</langeng>
+	<langfre>autres langues malayo-polyn&eacute;siennes</langfre>
+</langpair>
+<langpair code='mar'>
+	<langeng>Marathi</langeng>
+	<langfre>marathe</langfre>
+</langpair>
+<langpair code='mas'>
+	<langeng>Masai</langeng>
+	<langfre>massa&iuml;</langfre>
+</langpair>
+<langpair code='may'>
+	<langeng>Malay</langeng>
+	<langfre>malais</langfre>
+</langpair>
+<langpair code='mdr'>
+	<langeng>Mandar</langeng>
+	<langfre>mandar</langfre>
+</langpair>
+<langpair code='men'>
+	<langeng>Mende</langeng>
+	<langfre>mend&eacute;</langfre>
+</langpair>
+<langpair code='mga'>
+	<langeng>Middle Irish (900-1200)</langeng>
+	<langfre>irlandais moyen (900-1200)</langfre>
+</langpair>
+<langpair code='mic'>
+	<langeng>Micmac</langeng>
+	<langfre>micmac</langfre>
+</langpair>
+<langpair code='min'>
+	<langeng>Minangkabau</langeng>
+	<langfre>minangkabau</langfre>
+</langpair>
+<langpair code='mis'>
+	<langeng>Miscellaneous languages</langeng>
+	<langfre>langues diverses</langfre>
+</langpair>
+<langpair code='mac'>
+	<langeng>Macedonian</langeng>
+	<langfre>mac&eacute;donien</langfre>
+</langpair>
+<langpair code='mkh'>
+	<langeng>Other Mon-Khmer</langeng>
+	<langfre>autres langues m&ocirc;n-khmer</langfre>
+</langpair>
+<langpair code='mlg'>
+	<langeng>Malagasy</langeng>
+	<langfre>malgache</langfre>
+</langpair>
+<langpair code='mlt'>
+	<langeng>Maltese</langeng>
+	<langfre>maltais</langfre>
+</langpair>
+<langpair code='mnc'>
+	<langeng>Manchu</langeng>
+	<langfre>mandchou</langfre>
+</langpair>
+<langpair code='mni'>
+	<langeng>Manipuri</langeng>
+	<langfre>manipuri</langfre>
+</langpair>
+<langpair code='mno'>
+	<langeng>Manobo languages</langeng>
+	<langfre>langues manobo</langfre>
+</langpair>
+<langpair code='moh'>
+	<langeng>Mohawk</langeng>
+	<langfre>mohawk</langfre>
+</langpair>
+<langpair code='mol'>
+	<langeng>Moldavian</langeng>
+	<langfre>moldave</langfre>
+</langpair>
+<langpair code='mon'>
+	<langeng>Mongolian</langeng>
+	<langfre>mongol</langfre>
+</langpair>
+<langpair code='mos'>
+	<langeng>Mossi</langeng>
+	<langfre>mor&eacute;</langfre>
+</langpair>
+<langpair code='mao'>
+	<langeng>Maori</langeng>
+	<langfre>maori</langfre>
+</langpair>
+<langpair code='may'>
+	<langeng>Malay</langeng>
+	<langfre>malais</langfre>
+</langpair>
+<langpair code='mul'>
+	<langeng>Multiple languages</langeng>
+	<langfre>multilingue</langfre>
+</langpair>
+<langpair code='mun'>
+	<langeng>Munda languages</langeng>
+	<langfre>langues mounda</langfre>
+</langpair>
+<langpair code='mus'>
+	<langeng>Creek</langeng>
+	<langfre>muskogee</langfre>
+</langpair>
+<langpair code='mwr'>
+	<langeng>Marwari</langeng>
+	<langfre>marvari</langfre>
+</langpair>
+<langpair code='bur'>
+	<langeng>Burmese</langeng>
+	<langfre>birman</langfre>
+</langpair>
+<langpair code='myn'>
+	<langeng>Mayan languages</langeng>
+	<langfre>langues maya</langfre>
+</langpair>
+<langpair code='nah'>
+	<langeng>Nahuatl</langeng>
+	<langfre>nahuatl</langfre>
+</langpair>
+<langpair code='nai'>
+	<langeng>North American Indian</langeng>
+	<langfre>autres langues autres langues indiennes d'Am&eacute;rique du Nord</langfre>
+</langpair>
+<langpair code='nau'>
+	<langeng>Nauru</langeng>
+	<langfre>nauruan</langfre>
+</langpair>
+<langpair code='nav'>
+	<langeng>Navajo or Navaho</langeng>
+	<langfre>navaho</langfre>
+</langpair>
+<langpair code='nbl'>
+	<langeng>South or South Ndebele</langeng>
+	<langfre>nd&eacute;b&eacute;l&eacute; du Sud</langfre>
+</langpair>
+<langpair code='nde'>
+	<langeng>North or North Ndebele</langeng>
+	<langfre>nd&eacute;b&eacute;l&eacute; du Nord</langfre>
+</langpair>
+<langpair code='ndo'>
+	<langeng>Ndonga</langeng>
+	<langfre>ndonga</langfre>
+</langpair>
+<langpair code='nds'>
+	<langeng>Low German or Low Saxon</langeng>
+	<langfre>bas allemand or bas saxon</langfre>
+</langpair>
+<langpair code='nep'>
+	<langeng>Nepali</langeng>
+	<langfre>n&eacute;palais</langfre>
+</langpair>
+<langpair code='new'>
+	<langeng>Newari</langeng>
+	<langfre>newari</langfre>
+</langpair>
+<langpair code='nia'>
+	<langeng>Nias</langeng>
+	<langfre>nias</langfre>
+</langpair>
+<langpair code='nic'>
+	<langeng>Other Niger-Kordofanian</langeng>
+	<langfre>autres langues nig&eacute;ro-congolaises</langfre>
+</langpair>
+<langpair code='niu'>
+	<langeng>Niuean</langeng>
+	<langfre>niu&eacute;</langfre>
+</langpair>
+<langpair code='dut'>
+	<langeng>Dutch</langeng>
+	<langfre>n&eacute;erlandais</langfre>
+</langpair>
+<langpair code='non'>
+	<langeng>Old Norse</langeng>
+	<langfre>vieux norrois</langfre>
+</langpair>
+<langpair code='nor'>
+	<langeng>Norwegian</langeng>
+	<langfre>norv&eacute;gien</langfre>
+</langpair>
+<langpair code='nno'>
+	<langeng>Norwegian Nynorsk</langeng>
+	<langfre>norv&eacute;gien nynorsk</langfre>
+</langpair>
+<langpair code='nob'>
+	<langeng>Norwegian Bokm&aring;l</langeng>
+	<langfre>norv&eacute;gien bokm&aring;l</langfre>
+</langpair>
+<langpair code='nso'>
+	<langeng>Northern Sotho</langeng>
+	<langfre>sotho du Nord</langfre>
+</langpair>
+<langpair code='nub'>
+	<langeng>Nubian languages</langeng>
+	<langfre>langues nubiennes</langfre>
+</langpair>
+<langpair code='nya'>
+	<langeng> Chichewa or Chewa or Nyanja</langeng>
+	<langfre>chichewa or chewa or nyanja</langfre>
+</langpair>
+<langpair code='nym'>
+	<langeng>Nyamwezi</langeng>
+	<langfre>nyamwezi</langfre>
+</langpair>
+<langpair code='nyn'>
+	<langeng>Nyankole</langeng>
+	<langfre>nyankol&eacute;</langfre>
+</langpair>
+<langpair code='nyo'>
+	<langeng>Nyoro</langeng>
+	<langfre>nyoro</langfre>
+</langpair>
+<langpair code='nzi'>
+	<langeng>Nzima</langeng>
+	<langfre>nzema</langfre>
+</langpair>
+<langpair code='oci'>
+	<langeng>Occitan (post 1500) or Proven&ccedil;al</langeng>
+	<langfre>occitan (apr&egrave;s 1500) or proven&ccedil;al</langfre>
+</langpair>
+<langpair code='oji'>
+	<langeng>Ojibwa</langeng>
+	<langfre>ojibwa</langfre>
+</langpair>
+<langpair code='ori'>
+	<langeng>Oriya</langeng>
+	<langfre>oriya</langfre>
+</langpair>
+<langpair code='orm'>
+	<langeng>Oromo</langeng>
+	<langfre>galla</langfre>
+</langpair>
+<langpair code='osa'>
+	<langeng>Osage</langeng>
+	<langfre>osage</langfre>
+</langpair>
+<langpair code='oss'>
+	<langeng>Ossetian or Ossetic</langeng>
+	<langfre>oss&egrave;te</langfre>
+</langpair>
+<langpair code='ota'>
+	<langeng>Ottoman Turkish (1500-1928)</langeng>
+	<langfre>turc ottoman (1500-1928)</langfre>
+</langpair>
+<langpair code='oto'>
+	<langeng>Otomian languages</langeng>
+	<langfre>langues otomangue</langfre>
+</langpair>
+<langpair code='paa'>
+	<langeng>Other Papuan</langeng>
+	<langfre>autres langues papoues</langfre>
+</langpair>
+<langpair code='pag'>
+	<langeng>Pangasinan</langeng>
+	<langfre>pangasinan</langfre>
+</langpair>
+<langpair code='pal'>
+	<langeng>Pahlavi</langeng>
+	<langfre>pahlavi</langfre>
+</langpair>
+<langpair code='pam'>
+	<langeng>Pampanga</langeng>
+	<langfre>pampangan</langfre>
+</langpair>
+<langpair code='pan'>
+	<langeng>Panjabi</langeng>
+	<langfre>pendjabi</langfre>
+</langpair>
+<langpair code='pap'>
+	<langeng>Papiamento</langeng>
+	<langfre>papiamento</langfre>
+</langpair>
+<langpair code='pau'>
+	<langeng>Palauan</langeng>
+	<langfre>palau</langfre>
+</langpair>
+<langpair code='peo'>
+	<langeng>Old Persian (ca.600-400 B.C.)</langeng>
+	<langfre>vieux perse (ca. 600-400 av. J.-C.)</langfre>
+</langpair>
+<langpair code='per'>
+	<langeng>Persian</langeng>
+	<langfre>persan</langfre>
+</langpair>
+<langpair code='phi'>
+	<langeng>Other Philippine</langeng>
+	<langfre>autres langues philippines</langfre>
+</langpair>
+<langpair code='phn'>
+	<langeng>Phoenician</langeng>
+	<langfre>ph&eacute;nicien</langfre>
+</langpair>
+<langpair code='pli'>
+	<langeng>Pali</langeng>
+	<langfre>pali</langfre>
+</langpair>
+<langpair code='pol'>
+	<langeng>Polish</langeng>
+	<langfre>polonais</langfre>
+</langpair>
+<langpair code='pon'>
+	<langeng>Pohnpeian</langeng>
+	<langfre>pohnpei</langfre>
+</langpair>
+<langpair code='por'>
+	<langeng>Portuguese</langeng>
+	<langfre>portugais</langfre>
+</langpair>
+<langpair code='pra'>
+	<langeng>Prakrit languages</langeng>
+	<langfre>pr&acirc;krit</langfre>
+</langpair>
+<langpair code='pro'>
+	<langeng>Old Proven&#231;al (to 1500)</langeng>
+	<langfre>proven&ccedil;al ancien (jusqu'&agrave; 1500)</langfre>
+</langpair>
+<langpair code='pus'>
+	<langeng>Pushto</langeng>
+	<langfre>pachto</langfre>
+</langpair>
+<!--langpair code='qaa-qtz'>
+	<langeng>Reserved for local use</langeng>
+	<langfre>r&eacute;serv&eacute;e &agrave; l'usage local</langfre></langpair-->
+<langpair code='que'>
+	<langeng>Quechua</langeng>
+	<langfre>quechua</langfre>
+</langpair>
+<langpair code='raj'>
+	<langeng>Rajasthani</langeng>
+	<langfre>rajasthani</langfre>
+</langpair>
+<langpair code='rap'>
+	<langeng>Rapanui</langeng>
+	<langfre>rapanui</langfre>
+</langpair>
+<langpair code='rar'>
+	<langeng>Rarotongan</langeng>
+	<langfre>rarotonga</langfre>
+</langpair>
+<langpair code='roa'>
+	<langeng>Other Romance</langeng>
+	<langfre>autres langues romanes</langfre>
+</langpair>
+<langpair code='roh'>
+	<langeng>Raeto-Romance</langeng>
+	<langfre>rh&eacute;to-roman</langfre>
+</langpair>
+<langpair code='rom'>
+	<langeng>Romany</langeng>
+	<langfre>tsigane</langfre>
+</langpair>
+<langpair code='rum'>
+	<langeng>Romanian</langeng>
+	<langfre>roumain</langfre>
+</langpair>
+<langpair code='run'>
+	<langeng>Rundi</langeng>
+	<langfre>rundi</langfre>
+</langpair>
+<langpair code='rus'>
+	<langeng>Russian</langeng>
+	<langfre>russe</langfre>
+</langpair>
+<langpair code='sad'>
+	<langeng>Sandawe</langeng>
+	<langfre>sandawe</langfre>
+</langpair>
+<langpair code='sag'>
+	<langeng>Sango</langeng>
+	<langfre>sango</langfre>
+</langpair>
+<langpair code='sah'>
+	<langeng>Yakut</langeng>
+	<langfre>iakoute</langfre>
+</langpair>
+<langpair code='sai'>
+	<langeng>Other South American Indian</langeng>
+	<langfre>autres langues indiennes d'Am&eacute;rique du Sud</langfre>
+</langpair>
+<langpair code='sal'>
+	<langeng>Salishan languages</langeng>
+	<langfre>langues salish</langfre>
+</langpair>
+<langpair code='sam'>
+	<langeng>Samaritan Aramaic</langeng>
+	<langfre>samaritain</langfre>
+</langpair>
+<langpair code='san'>
+	<langeng>Sanskrit</langeng>
+	<langfre>sanskrit</langfre>
+</langpair>
+<langpair code='sas'>
+	<langeng>Sasak</langeng>
+	<langfre>sasak</langfre>
+</langpair>
+<langpair code='sat'>
+	<langeng>Santali</langeng>
+	<langfre>santal</langfre>
+</langpair>
+<langpair code='scc'>
+	<langeng>Serbian</langeng>
+	<langfre>serbe</langfre>
+</langpair>
+<langpair code='sco'>
+	<langeng>Scots</langeng>
+	<langfre>&eacute;cossais</langfre>
+</langpair>
+<langpair code='scr'>
+	<langeng>Croatian</langeng>
+	<langfre>croate</langfre>
+</langpair>
+<langpair code='sel'>
+	<langeng>Selkup</langeng>
+	<langfre>selkoupe</langfre>
+</langpair>
+<langpair code='sem'>
+	<langeng>Other Semitic</langeng>
+	<langfre>autres langues s&eacute;mitiques</langfre>
+</langpair>
+<langpair code='sga'>
+	<langeng>Old Irish (to 900)</langeng>
+	<langfre>irlandais ancien (jusqu'&agrave; 900)</langfre>
+</langpair>
+<langpair code='sgn'>
+	<langeng>Sign Languages</langeng>
+	<langfre>langues des signes</langfre>
+</langpair>
+<langpair code='shn'>
+	<langeng>Shan</langeng>
+	<langfre>chan</langfre>
+</langpair>
+<langpair code='sid'>
+	<langeng>Sidamo</langeng>
+	<langfre>sidamo</langfre>
+</langpair>
+<langpair code='sin'>
+	<langeng>Sinhalese</langeng>
+	<langfre>singhalais</langfre>
+</langpair>
+<langpair code='sio'>
+	<langeng>Siouan languages</langeng>
+	<langfre>langues sioux</langfre>
+</langpair>
+<langpair code='sit'>
+	<langeng>Other Sino-Tibetan</langeng>
+	<langfre>autres langues sino-tib&eacute;taines</langfre>
+</langpair>
+<langpair code='sla'>
+	<langeng>Other Slavic</langeng>
+	<langfre>autres langues slaves</langfre>
+</langpair>
+<langpair code='slo'>
+	<langeng>Slovak</langeng>
+	<langfre>slovaque</langfre>
+</langpair>
+<langpair code='slv'>
+	<langeng>Slovenian</langeng>
+	<langfre>slov&egrave;ne</langfre>
+</langpair>
+<langpair code='sma'>
+	<langeng>Southern Sami</langeng>
+	<langfre>sami du Sud</langfre>
+</langpair>
+<langpair code='sme'>
+	<langeng>Northern Sami</langeng>
+	<langfre>sami du Nord</langfre>
+</langpair>
+<langpair code='smi'>
+	<langeng>Other Sami languages</langeng>
+	<langfre>autres langues sami</langfre>
+</langpair>
+<langpair code='smj'>
+	<langeng>Lule Sami</langeng>
+	<langfre>sami de Lule</langfre>
+</langpair>
+<langpair code='smn'>
+	<langeng>Inari Sami</langeng>
+	<langfre>sami d'Inari</langfre>
+</langpair>
+<langpair code='smo'>
+	<langeng>Samoan</langeng>
+	<langfre>samoan</langfre>
+</langpair>
+<langpair code='sms'>
+	<langeng>Skolt Sami</langeng>
+	<langfre>sami skolt</langfre>
+</langpair>
+<langpair code='sna'>
+	<langeng>Shona</langeng>
+	<langfre>shona</langfre>
+</langpair>
+<langpair code='snd'>
+	<langeng>Sindhi</langeng>
+	<langfre>sindhi</langfre>
+</langpair>
+<langpair code='snk'>
+	<langeng>Soninke</langeng>
+	<langfre>sonink&eacute;</langfre>
+</langpair>
+<langpair code='sog'>
+	<langeng>Sogdian</langeng>
+	<langfre>sogdien</langfre>
+</langpair>
+<langpair code='som'>
+	<langeng>Somali</langeng>
+	<langfre>somali</langfre>
+</langpair>
+<langpair code='son'>
+	<langeng>Songhai</langeng>
+	<langfre>songhai</langfre>
+</langpair>
+<langpair code='sot'>
+	<langeng>Southern Sotho</langeng>
+	<langfre>sotho du Sud</langfre>
+</langpair>
+<langpair code='spa'>
+	<langeng>Spanish or Castilian</langeng>
+	<langfre>espagnol or castillan</langfre>
+</langpair>
+<langpair code='alb'>
+	<langeng>Albanian</langeng>
+	<langfre>albanais</langfre>
+</langpair>
+<langpair code='srd'>
+	<langeng>Sardinian</langeng>
+	<langfre>sarde</langfre>
+</langpair>
+<langpair code='scc'>
+	<langeng>Serbian</langeng>
+	<langfre>serbe</langfre>
+</langpair>
+<langpair code='srr'>
+	<langeng>Serer</langeng>
+	<langfre>s&eacute;r&egrave;re</langfre>
+</langpair>
+<langpair code='ssa'>
+	<langeng>Other Nilo-Saharan</langeng>
+	<langfre>autres langues nilo-sahariennes</langfre>
+</langpair>
+<langpair code='ssw'>
+	<langeng>Swati</langeng>
+	<langfre>swati</langfre>
+</langpair>
+<langpair code='suk'>
+	<langeng>Sukuma</langeng>
+	<langfre>sukuma</langfre>
+</langpair>
+<langpair code='sun'>
+	<langeng>Sundanese</langeng>
+	<langfre>soundanais</langfre>
+</langpair>
+<langpair code='sus'>
+	<langeng>Susu</langeng>
+	<langfre>soussou</langfre>
+</langpair>
+<langpair code='sux'>
+	<langeng>Sumerian</langeng>
+	<langfre>sum&eacute;rien</langfre>
+</langpair>
+<langpair code='swa'>
+	<langeng>Swahili</langeng>
+	<langfre>swahili</langfre>
+</langpair>
+<langpair code='swe'>
+	<langeng>Swedish</langeng>
+	<langfre>su&eacute;dois</langfre>
+</langpair>
+<langpair code='syr'>
+	<langeng>Syriac</langeng>
+	<langfre>syriaque</langfre>
+</langpair>
+<langpair code='tah'>
+	<langeng>Tahitian</langeng>
+	<langfre>tahitien</langfre>
+</langpair>
+<langpair code='tai'>
+	<langeng>Other Tai</langeng>
+	<langfre>autres langues tha&iuml;es</langfre>
+</langpair>
+<langpair code='tam'>
+	<langeng>Tamil</langeng>
+	<langfre>tamoul</langfre>
+</langpair>
+<langpair code='tat'>
+	<langeng>Tatar</langeng>
+	<langfre>tatar</langfre>
+</langpair>
+<langpair code='tel'>
+	<langeng>Telugu</langeng>
+	<langfre>t&eacute;lougou</langfre>
+</langpair>
+<langpair code='tem'>
+	<langeng>Timne</langeng>
+	<langfre>temne</langfre>
+</langpair>
+<langpair code='ter'>
+	<langeng>Tereno</langeng>
+	<langfre>tereno</langfre>
+</langpair>
+<langpair code='tet'>
+	<langeng>Tetum</langeng>
+	<langfre>tetum</langfre>
+</langpair>
+<langpair code='tgk'>
+	<langeng>Tajik</langeng>
+	<langfre>tadjik</langfre>
+</langpair>
+<langpair code='tgl'>
+	<langeng>Tagalog</langeng>
+	<langfre>tagalog</langfre>
+</langpair>
+<langpair code='tha'>
+	<langeng>Thai</langeng>
+	<langfre>tha&iuml;</langfre>
+</langpair>
+<langpair code='tib'>
+	<langeng>Tibetan</langeng>
+	<langfre>tib&eacute;tain</langfre>
+</langpair>
+<langpair code='tig'>
+	<langeng>Tigre</langeng>
+	<langfre>tigr&eacute;</langfre>
+</langpair>
+<langpair code='tir'>
+	<langeng>Tigrinya</langeng>
+	<langfre>tigrigna</langfre>
+</langpair>
+<langpair code='tiv'>
+	<langeng>Tiv</langeng>
+	<langfre>tiv</langfre>
+</langpair>
+<langpair code='tkl'>
+	<langeng>Tokelau</langeng>
+	<langfre>tokelau</langfre>
+</langpair>
+<langpair code='tli'>
+	<langeng>Tlingit</langeng>
+	<langfre>tlingit</langfre>
+</langpair>
+<langpair code='tmh'>
+	<langeng>Tamashek</langeng>
+	<langfre>tamacheq</langfre>
+</langpair>
+<langpair code='tog'>
+	<langeng>Tonga (Nyasa)</langeng>
+	<langfre>tonga (Nyasa)</langfre>
+</langpair>
+<langpair code='ton'>
+	<langeng>Tonga (Tonga Islands)</langeng>
+	<langfre>tongan (&Icirc;les Tonga)</langfre>
+</langpair>
+<langpair code='tpi'>
+	<langeng>Tok Pisin</langeng>
+	<langfre>tok pisin</langfre>
+</langpair>
+<langpair code='tsi'>
+	<langeng>Tsimshian</langeng>
+	<langfre>tsimshian</langfre>
+</langpair>
+<langpair code='tsn'>
+	<langeng>Tswana</langeng>
+	<langfre>tswana</langfre>
+</langpair>
+<langpair code='tso'>
+	<langeng>Tsonga</langeng>
+	<langfre>tsonga</langfre>
+</langpair>
+<langpair code='tuk'>
+	<langeng>Turkmen</langeng>
+	<langfre>turkm&egrave;ne</langfre>
+</langpair>
+<langpair code='tum'>
+	<langeng>Tumbuka</langeng>
+	<langfre>tumbuka</langfre>
+</langpair>
+<langpair code='tup'>
+	<langeng>Tupi languages</langeng>
+	<langfre>langues tupi</langfre>
+</langpair>
+<langpair code='tur'>
+	<langeng>Turkish</langeng>
+	<langfre>turc</langfre>
+</langpair>
+<langpair code='tut'>
+	<langeng>Other Altaic</langeng>
+	<langfre>autres langues alta&iuml;ques</langfre>
+</langpair>
+<langpair code='tvl'>
+	<langeng>Tuvalu</langeng>
+	<langfre>tuvalu</langfre>
+</langpair>
+<langpair code='twi'>
+	<langeng>Twi</langeng>
+	<langfre>twi</langfre>
+</langpair>
+<langpair code='tyv'>
+	<langeng>Tuvinian</langeng>
+	<langfre>touva</langfre>
+</langpair>
+<langpair code='uga'>
+	<langeng>Ugaritic</langeng>
+	<langfre>ougaritique</langfre>
+</langpair>
+<langpair code='uig'>
+	<langeng>Uighur</langeng>
+	<langfre>ou&iuml;gour</langfre>
+</langpair>
+<langpair code='ukr'>
+	<langeng>Ukrainian</langeng>
+	<langfre>ukrainien</langfre>
+</langpair>
+<langpair code='umb'>
+	<langeng>Umbundu</langeng>
+	<langfre>umbundu</langfre>
+</langpair>
+<langpair code='und'>
+	<langeng>Undetermined</langeng>
+	<langfre>ind&eacute;termin&eacute;e</langfre>
+</langpair>
+<langpair code='urd'>
+	<langeng>Urdu</langeng>
+	<langfre>ourdou</langfre>
+</langpair>
+<langpair code='uzb'>
+	<langeng>Uzbek</langeng>
+	<langfre>ouszbek</langfre>
+</langpair>
+<langpair code='vai'>
+	<langeng>Vai</langeng>
+	<langfre>va&iuml;</langfre>
+</langpair>
+<langpair code='ven'>
+	<langeng>Venda</langeng>
+	<langfre>venda</langfre>
+</langpair>
+<langpair code='vie'>
+	<langeng>Vietnamese</langeng>
+	<langfre>vietnamien</langfre>
+</langpair>
+<langpair code='vol'>
+	<langeng>Volap&#252;k</langeng>
+	<langfre>volap&uuml;k</langfre>
+</langpair>
+<langpair code='vot'>
+	<langeng>Votic</langeng>
+	<langfre>vote</langfre>
+</langpair>
+<langpair code='wak'>
+	<langeng>Wakashan languages</langeng>
+	<langfre>langues wakashennes</langfre>
+</langpair>
+<langpair code='wal'>
+	<langeng>Walamo</langeng>
+	<langfre>walamo</langfre>
+</langpair>
+<langpair code='war'>
+	<langeng>Waray</langeng>
+	<langfre>waray</langfre>
+</langpair>
+<langpair code='was'>
+	<langeng>Washo</langeng>
+	<langfre>washo</langfre>
+</langpair>
+<langpair code='wel'>
+	<langeng>Welsh</langeng>
+	<langfre>gallois</langfre>
+</langpair>
+<langpair code='wen'>
+	<langeng>Sorbian languages</langeng>
+	<langfre>langues sorabes</langfre>
+</langpair>
+<langpair code='wln'>
+	<langeng>Walloon</langeng>
+	<langfre>wallon</langfre>
+</langpair>
+<langpair code='wol'>
+	<langeng>Wolof</langeng>
+	<langfre>wolof</langfre>
+</langpair>
+<langpair code='xho'>
+	<langeng>Xhosa</langeng>
+	<langfre>xhosa</langfre>
+</langpair>
+<langpair code='yao'>
+	<langeng>Yao</langeng>
+	<langfre>yao</langfre>
+</langpair>
+<langpair code='yap'>
+	<langeng>Yapese</langeng>
+	<langfre>yapois</langfre>
+</langpair>
+<langpair code='yid'>
+	<langeng>Yiddish</langeng>
+	<langfre>yiddish</langfre>
+</langpair>
+<langpair code='yor'>
+	<langeng>Yoruba</langeng>
+	<langfre>yoruba</langfre>
+</langpair>
+<langpair code='ypk'>
+	<langeng>Yupik languages</langeng>
+	<langfre>langues yupik</langfre>
+</langpair>
+<langpair code='zap'>
+	<langeng>Zapotec</langeng>
+	<langfre>zapot&egrave;que</langfre>
+</langpair>
+<langpair code='zen'>
+	<langeng>Zenaga</langeng>
+	<langfre>zenaga</langfre>
+</langpair>
+<langpair code='zha'>
+	<langeng>Zhuang or Chuang</langeng>
+	<langfre>zhuang or chuang</langfre>
+</langpair>
+<langpair code='chi'>
+	<langeng>Chinese</langeng>
+	<langfre>chinois</langfre>
+</langpair>
+<langpair code='znd'>
+	<langeng>Zande</langeng>
+	<langfre>zand&eacute;</langfre>
+</langpair>
+<langpair code='zul'>
+	<langeng>Zulu</langeng>
+	<langfre>zoulou</langfre>
+</langpair>
+<langpair code='zun'>
+	<langeng>Zuni</langeng>
+	<langfre>zuni</langfre>
+</langpair>
+</langlist>

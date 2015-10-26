@@ -1,0 +1,43 @@
+<html><body><ead audience="external">
+<eadheader>
+<eadid identifier="ediffah:kb:163689:1116850660" mainagencycode="kb">KB1/REA000138659</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>MARGIT ABENIUS - Kungliga bibliotekets handskriftsektion KB1</titleproper>
+<author>Skapad av marc2ead.xsl $Revision: 1.1 $ från data i NAD vilka
+		  tillgängliggjorts av Riksarkivet</author>
+</titlestmt>
+<publicationstmt>
+<date>2005</date>
+</publicationstmt>
+</filedesc>
+<revisiondesc>
+<change>
+<date encodinganalog="creation">2005-05-23</date>
+<item>Posten laddades upp första gången</item>
+</change>
+<change>
+<date encodinganalog="revision">2005-05-23</date>
+<item>Senaste revision</item>
+</change>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection">
+<did>
+<origination>
+<persname normal="ABENIUS, MARGARETA ULRIKA (MARGIT)">ABENIUS, MARGARETA ULRIKA (MARGIT) (1899 - 1970)</persname>
+</origination>
+<unittitle>MARGIT ABENIUS</unittitle>
+<unitdate>1916 - 1917</unitdate>
+<repository>Kungliga bibliotekets handskriftsektion KB1</repository>
+</did>
+<controlaccess>
+<occupation authfilenumber="3060000" source="nad">Person (släkt) 3</occupation>
+<occupation source="">FÖRFATTARE</occupation>
+<occupation source="">LITTERATURHISTORIKER</occupation>
+<geogname role="subject">Stockholms kommun</geogname>
+<genreform authfilenumber="200" source="nad">Utgående handlingar (koncept), allmänt</genreform>
+</controlaccess>
+</archdesc>
+</ead>
+</body></html>

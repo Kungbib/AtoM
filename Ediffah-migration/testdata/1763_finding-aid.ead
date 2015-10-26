@@ -1,0 +1,1044 @@
+<html><body><ead audience="external" relatedencoding="MARC21">
+<eadheader audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="J" langencoding="iso639-2b" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid countrycode="SE" identifier="ediffah:kb:254429:1193046115" mainagencycode="kb">L0027</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Gustaf Cederströms efterlämnade papper</titleproper>
+<subtitle></subtitle>
+<author>.</author>
+</titlestmt>
+<publicationstmt>
+<publisher>Kungl. biblioteket</publisher>
+<date type="publication">2007-10-19</date>
+<address><addressline>Humlegården</addressline><addressline>Box 5039</addressline><addressline>102 41 Stockholm</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation> PS 
+<date>2007-10-19</date>
+</creation>
+<langusage><language></language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date encodinganalog="creation">2007-10-22</date>
+<item>Posten laddades upp första gången</item>
+</change>
+<change>
+<date encodinganalog="revision">2007-10-22</date>
+<item>Senaste revision</item>
+</change>
+</revisiondesc>
+</eadheader>
+<archdesc level="collection" type="inventory">
+<did>
+	Översikt
+	<repository encodinganalog="852$a" label="Arkivinst.:">
+<corpname>Kungl. biblioteket</corpname>
+<address><addressline>Humlegården</addressline><addressline>Box 5039</addressline><addressline>102 41 Stockholm</addressline></address>
+</repository>
+<origination label="Arkivbildare:">
+<persname encodinganalog="100">Cederström, Gustaf Olof (1845-1933), målare, professor, skriftställare.</persname>
+</origination>
+<unittitle encodinganalog="245$a" label="Titel:">Gustaf Cederströms efterlämnade papper</unittitle>
+<unitdate label="Tid:">1873 -- 1933</unitdate>
+<physdesc encodinganalog="300$a" label="Omfång:">
+<extent unit="hyllm.">0,75  hyllmeter</extent>
+<extent unit="vol.">12  volymer</extent>
+</physdesc>
+<unitid countrycode="SE" encodinganalog="099" label="Referenskod:" repositorycode="KB">L0027</unitid>
+<langmaterial>
+<language langcode="swe"> Svenska </language>
+</langmaterial>
+</did>
+<!-- INNEHÅLL -->
+<scopecontent>
+	Sammanfattning 
+	<p>Samlingen innehåller manuskript, almanackor, anteckningar, biographica, fotografier m.m. rörande Gustaf Cederström. </p>
+</scopecontent>
+<bioghist encodinganalog="545">
+<p>Konstnären Gustaf Cederström fick sin avslutande utbildning i Paris, där han 1873-1887 även var verksam. Han blev 1887 professor vid Konstakademien i Stockholm och var 1899-1911 dess direktör. Sedan han hade lämnat sina befattningar som akademisk lärare och direktör, vistades Gustaf Cederström upprepade gånger utomlands, oftast i Paris och Italien.</p><p>
+
+Mest berömd blev Gustaf Cederström för sitt historiemåleri, där han kombinerade ett omsorgsfullt studium av detaljer med viljan att förmedla en övergripande känsla. Hans genombrottsverk var <emph render="italic">Karl XII:s likfärd</emph> (1878) som också förblev hans mest ihågkomna bild. Utöver soldatlivet visade Cederström i sina målningar också samtidens sociala problem samt renodlade friluftsmåleriets principer i en rad landskapsbilder.</p><p> 
+
+På äldre dagar blev Gustaf Cederström även känd som skriftställare.
+</p>
+</bioghist>
+<acqinfo encodinganalog="541" id="a19">
+	Accession
+	<p>Gåva.</p>
+</acqinfo>
+<userestrict encodinganalog="540" id="a15">
+	Inskränkningar i användning 
+	<p>Vissa delar av samlingen kan omfattas av lagen om upphovsrätt.</p>
+</userestrict>
+<relatedmaterial encodinganalog="544_1">
+	Arkivhänvisningar
+	<p>Annat material rörande Gustaf Cederström finns även i Brevsamlingen (Ep.C.1 k.) samt i Biografisamlingen (I.c.6 m) på Kungl. biblioteket.</p>
+</relatedmaterial>
+<!-- ÄMNESORD: -->
+<controlaccess>
+		Handlingstyper:
+			<genreform>Dagböcker</genreform>
+<genreform>Anteckningar</genreform>
+<genreform>Ekonomiska handlingar</genreform>
+<genreform>Biographica</genreform>
+<genreform>Fotografier</genreform>
+<genreform>Manuskript</genreform>
+<genreform>Ämnesordnade handlingar</genreform>
+</controlaccess>
+<controlaccess>
+		 Ämnesord:
+			<subject encodinganalog="650" source="local_class"> L </subject>
+<subject encodinganalog="650" source="sao"> Målare (bildkonstnärer) </subject>
+<subject encodinganalog="650" source="sao"> Professorer </subject>
+<subject encodinganalog="650" source="sao"> Skriftställare </subject>
+</controlaccess>
+<!-- FÖRTECKNING KOMPONENTER: -->
+<dsc id="a23" type="combined">
+Förteckning
+
+<c01 level="series">
+<did>
+<unitid>L27:1</unitid>
+<unittitle>Almanackor med korta dagboksanteckningar, 31 st. </unittitle>
+<unitdate>1873, 1883, 1887 -- 1889, 1895, 1897 -- 1900, 1913 -- 1933</unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:2a-b</unitid>
+<unittitle>Räkenskapsböcker, 20 st. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L27:2a</unitid>
+<unittitle>Kassakladdar. </unittitle>
+<unitdate>1892 (?), 1898 -- 1899, 1904 -- 1907, 1911 -- 1913, 1916 -- 1919, 1922 -- 26</unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:2b</unitid>
+<unittitle>Kassaböcker. </unittitle>
+<unitdate>1890, 1892 -- 1893, 1913 -- 1921, 1924 -- 1925</unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:3a-f</unitid>
+<unittitle>Strödda biographica </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L27:3a</unitid>
+<unittitle>Tjänsteförteckningar, uppdrag m.m. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:3b</unitid>
+<unittitle>Akademier, sällskap o. dyl. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:3c</unitid>
+<unittitle>Födelsedagar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:3d</unitid>
+<unittitle>Begravningen 27/6-1933 (tal, verser m.m.) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:3e</unitid>
+<unittitle>Genealogi </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:3f</unitid>
+<unittitle>Diverse papper </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:4</unitid>
+<unittitle>Minnesalbum från utställningen av några av Gustaf Cederströms tavlor å officersmässan [vid Kungl. Upplands regemente] i samband med Regemetets dag, söndagen den 1 juni 1947 </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:5</unitid>
+<unittitle></unittitle>
+<note><p><emph render="italic">3 st. sambundna maskinskrifter</emph></p></note>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>Förteckning över Gustaf Cederströms skisser och studier. Upprättad 1924  </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>Förteckning över mina arbeten, upptecknad ur minnet 1911-1916</unitid>
+<unittitle> </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid></unitid>
+<unittitle>Förteckning över Gustaf Cederströms arbeten, gjord 1911-1916 </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:6</unitid>
+<unittitle>Diverse förteckningar över tryckta arbeten, dispositionsutkast m.m. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:7</unitid>
+<unittitle>Diplom m.m., 5 st.  </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:8a-f</unitid>
+<unittitle>Fotografier m.m. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L27:8a</unitid>
+<unittitle>Gustaf Cederström </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:8b</unitid>
+<unittitle>Gustaf Cederström på dödsbädden samt från begravningen </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:8c</unitid>
+<unittitle>Gruppbilder </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:8d</unitid>
+<unittitle>Carola Cederström </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:8e</unitid>
+<unittitle>Diverse </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:8f</unitid>
+<unittitle>Amatörfotografier från utländska resor. </unittitle>
+<unitdate>1929 (?)</unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:9a-e</unitid>
+<unittitle>Manuskript till G. Cederströms otryckta bok Med andar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L27:9a</unitid>
+<unittitle>Fullständig maskinskrift </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:9b</unitid>
+<unittitle>Kopia av fullständig maskinskrift </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:9c</unitid>
+<unittitle>Tidigare manuskript, maskinskrift med egenhändiga tillägg och ändringar samt illustrationer </unittitle>
+<note><p><emph render="italic">lösbladspärm med årtalet 1932</emph></p></note>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:9d</unitid>
+<unittitle>Inledningen (egenhändig) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:9e</unitid>
+<unittitle>Kapitlet om mormodern. Maskinskrift med ändringar </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+</c02>
+</c01>
+<c01 level="series">
+<did>
+<unitid>L27:10a-e</unitid>
+<unittitle>Koncept av Gustaf Cederström till kapitel i hans böcker, tidningsartiklar m.m. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c02 -->
+<c02 level="subseries">
+<did>
+<unitid>L27:10a</unitid>
+<unittitle>Allmän samling (alfabetiskt ordnad efter titlarna) </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Akta Stockholm</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Betraktelser</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Beväringshämtning</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Bland zigenare och chouaner</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>En blick riktad hemåt</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Brev till min far på hans sjuttiofemårsdag</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Bruka förståndet</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Consummatum est</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Damoclessvärdet</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Dödsdansen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Flaggans dag</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Frescomålning</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>En fråga</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Från skånska badorter</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Funderingar vid Kogrundsrännan</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Försvarsvänlig</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>En Gräsöjakt</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Helgeandsholmsfrågan</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Hemkomsten (jämför Tankar vid...)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Hemma</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Huru jag blev knekt (Ett av de livdömda)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Ingen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid>Jordbruksfrågan</unitid>
+<unittitle></unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Jordbunden</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Karl XII:s filmen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Karoliner loppet</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Konstens irr- (krok-) vägar</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Konståkningens förfall</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kvinnan i mitt liv (Två kvinnor)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Den kvinnliga värnplikten</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Kvinnofrågan</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Köpenhamn genom en stockholmares glasögon</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Minnen från Trossnäs fält</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Minneskapellet på Björkön</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Den omoderna dansen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Nationalmonumentet</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>1905</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Det nordiska samarbetet</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Nordpolen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Den nya polisuniformen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om hövlighet</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om komposition</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om monument</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om ordnar</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om oss</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om statens konstinköp</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om umgänge</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Om uteliv, umgänge, brottning, idrott och herrmoder</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Oraklet har talat</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Partiväsen </unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Perevolotnia </unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>På utkiken </unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Quo vadis? </unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Den rena bädden</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Resebrev</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Rom förr och nu</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Roma antiqua rediviva</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Roma-brev</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>En (gammal) Romafarares funderingar</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>[Från Rom-resan. Klipp ur Aftonbladet [1929]. (Se även Till Rom)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Se upp, stockholmare</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Skyfall [Om ordensväsen; se även Om ordnar]</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Det sovande Stockholm</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Stadsplanen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Striden om byxorna</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>[Sturemonumentets i Uppsala placering]</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>[Svenska arméns blivande fältuniform]</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Den svenska herrgårdskulturen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Sällskapsliv i Stockholm på kung Carls tid</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tankar vid hemkomsten (jämför Hemkomsten)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tendentiösa filmer</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Till Rom (jämför Rom)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>De tre stora</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Trottoar-konst</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Uppsala</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Vi efter kriget</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Våra bronzgubbars placering</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Våra löjtnanter</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Våra middagar</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Våra portar</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Våra tidningar</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Vårt vatten - en brännande fråga</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Ynkedom</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Ådalens poesi</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Ålandsrapporten</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>85 år</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Ett önskemål. Bort med sammanbindningsbanan</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+<c02 level="subseries">
+<did>
+<unitid>L27:10b</unitid>
+<unittitle>Konstakademien, konstutställningar m.m. </unittitle>
+<unitdate></unitdate>
+</did>
+<!-- c03 -->
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Konstakademien och konstundervisningen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Tal till eleverna vid avslutning i Konstakademien</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Konstakademien (högskolan): reglementsförslag</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Lilljevalchs konsthalls utställning av måleri från 1880- och 1890-talen</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Konstutställning 1897</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Internationella konstutställningen i München 1901</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>Konstutställningen i S:t Louis 1904</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+<c03 level="file">
+<did>
+<unitid></unitid>
+<unittitle>En återblick på den svenska konstutställningen i Paris (1929)</unittitle>
+<unitdate></unitdate>
+</did>
+</c03>
+</c02>
+</c01>
+</dsc>
+<!-- SLUT FÖRTECKNING -->
+</archdesc>
+</ead>
+</body></html>
